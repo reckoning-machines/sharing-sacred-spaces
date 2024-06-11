@@ -1,5 +1,10 @@
 import pandas as pd
 
+def preprocess_fbi_data(fbi_data: pd.DataFrame) -> pd.DataFrame:
+    # Implement preprocessing logic here
+    # How should we filter, clean, or transform the data?
+    # just return the dataframe for now
+    return fbi_data
 
 def _is_true(x: pd.Series) -> pd.Series:
     return x == "t"
