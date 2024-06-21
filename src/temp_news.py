@@ -3,7 +3,7 @@ from eventregistry import *
 # import pandas as pd
 import json
 
-er = EventRegistry(apiKey = "9dff6777-80e1-4fea-a8f1-ac47dfd97ec5")
+er = EventRegistry(apiKey = "")
 
 q = QueryArticlesIter(
     keywords = "hate crime",
