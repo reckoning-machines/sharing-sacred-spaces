@@ -26,7 +26,10 @@ def incidents_by_city_total(hate_crime_data: pd.DataFrame):
     Args:
         hate_crime_data: Filtered religious hate crime data.
     """
-    city_incidents = hate_crime_data.groupby(
+    # Filter to include only cities
+    city_data = hate_crime_data[hate_crime_data['agency_type_name'] == 'City']
+
+    city_incidents = city_data.groupby(
         'pug_agency_name').size().reset_index(name='incident_count')
     fig = px.bar(city_incidents, x='pug_agency_name', y='incident_count',
                  title='Number of Religious Hate Crime Incidents by City')
