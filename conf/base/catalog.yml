@@ -38,42 +38,41 @@
 # The Data Catalog supports being able to reference the same file using two different Dataset implementations
 # (transcoding), templating and a way to reuse arguments that are frequently repeated. See more here:
 # https://docs.kedro.org/en/stable/data/data_catalog.html
-
 fbi_data:
   type: pandas.CSVDataset
-  urlpath: "https://cde.ucr.cjis.gov/LATEST/webapp/"
+  filepath: data/01_raw/hate_crime.csv
 
 preprocessed_fbi_data:
-  type: pandas.ParquetDataset
-  filepath: data/02_intermediate/preprocessed_fbi_data.pq
-
-companies:
   type: pandas.CSVDataset
-  filepath: data/01_raw/companies.csv
+  filepath: data/02_intermediate/preprocessed_fbi_data.csv
 
-reviews:
-  type: pandas.CSVDataset
-  filepath: data/01_raw/reviews.csv
+# companies:
+#   type: pandas.CSVDataset
+#   filepath: data/01_raw/companies.csv
 
-shuttles:
-  type: pandas.ExcelDataset
-  filepath: data/01_raw/shuttles.xlsx
-  load_args:
-    engine: openpyxl
+# reviews:
+#   type: pandas.CSVDataset
+#   filepath: data/01_raw/reviews.csv
 
-preprocessed_companies:
-  type: pandas.ParquetDataset
-  filepath: data/02_intermediate/preprocessed_companies.pq
+# shuttles:
+#   type: pandas.ExcelDataset
+#   filepath: data/01_raw/shuttles.xlsx
+#   load_args:
+#     engine: openpyxl
 
-preprocessed_shuttles:
-  type: pandas.ParquetDataset
-  filepath: data/02_intermediate/preprocessed_shuttles.pq
+# preprocessed_companies:
+#   type: pandas.ParquetDataset
+#   filepath: data/02_intermediate/preprocessed_companies.pq
 
-model_input_table:
-  type: pandas.ParquetDataset
-  filepath: data/03_primary/model_input_table.pq
+# preprocessed_shuttles:
+#   type: pandas.ParquetDataset
+#   filepath: data/02_intermediate/preprocessed_shuttles.pq
 
-regressor:
-  type: pickle.PickleDataset
-  filepath: data/06_models/regressor.pickle
-  versioned: true
+# model_input_table:
+#   type: pandas.ParquetDataset
+#   filepath: data/03_primary/model_input_table.pq
+
+# regressor:
+#   type: pickle.PickleDataset
+#   filepath: data/06_models/regressor.pickle
+#   versioned: true
