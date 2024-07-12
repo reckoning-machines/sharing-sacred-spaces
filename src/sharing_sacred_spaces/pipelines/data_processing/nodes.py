@@ -24,9 +24,24 @@ def preprocess_fbi_data(fbi_data: pd.DataFrame) -> pd.DataFrame:
     ]
     preprocessed_fbi_data = fbi_data[
         fbi_data["bias_desc"].str.contains("|".join(religious_biases), case=False)
-        | (fbi_data["location_name"] == "Church/Synagogue/Temple/Mosque")
+        & (fbi_data["location_name"] == "Church/Synagogue/Temple/Mosque")
     ]
-    return preprocessed_fbi_data
+
+    keep_cols = [
+        "data_year",
+        "pug_agency_name",
+        "agency_type_name",
+        "state_name",
+        "population_group_description",
+        "incident_date",
+        "offense_name",
+        "location_name",
+        "bias_desc",
+        "victim_types",
+        "counter",
+    ]
+    preprocessed_fbi_data["counter"] = 1
+    return preprocessed_fbi_data[keep_cols]
 
 
 def incidents_by_city_total(hate_crime_data: pd.DataFrame):
