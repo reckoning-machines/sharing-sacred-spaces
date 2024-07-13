@@ -1,6 +1,63 @@
 import pandas as pd
 import plotly.express as px
 
+pd.set_option("mode.chained_assignment", None)
+
+
+def create_dataset(
+    preprocessed_fbi_data: pd.DataFrame, preprocessed_gini_data: pd.DataFrame
+) -> pd.DataFrame:
+    df_fbi_merge = preprocessed_fbi_data[["year", "counter", "city", "state"]]
+    df_fbi_merge["state"] = df_fbi_merge["state"].str.strip()
+    preprocessed_gini_data["state"] = preprocessed_gini_data["state"].str.strip()
+    dataset = df_fbi_merge.merge(
+        preprocessed_gini_data,
+        how="inner",
+        left_on=["year", "city", "state"],
+        right_on=["year", "city", "state"],
+    )
+    return dataset
+
+
+def preprocess_gini_data():
+    import os
+
+    root = os.getcwd()
+    root = root.split("/")[:-1]
+    root = "/".join(root[1:])
+    root = "/" + root
+    root = root + "/sharing-sacred-spaces/data/01_raw/"
+    import glob
+
+    file_list = glob.glob(root + "*-Data.csv")
+    df_list = []
+    for file_name in file_list:
+        # print(file_name)
+        year_name = file_name.split("/")[8]
+        year_name = year_name.replace("ACSDT1Y", "")
+        year_name = year_name.replace(".B19083-Data.csv", "")
+        df_gini = pd.read_csv(file_name)
+        df_gini.dropna(axis=1, how="all", inplace=True)
+
+        df_gini.columns = df_gini.iloc[0]
+        df_gini.drop(df_gini.index[0], inplace=True)
+        df_gini["year"] = year_name
+        df_list.append(df_gini)
+    df = pd.concat(df_list)
+    df[["city", "state"]] = df["Geographic Area Name"].str.split(",", expand=True)
+    df["city"] = df["city"].str.replace(" city", "")
+    df["city"] = df["city"].str.replace(" zona urbana", "")
+    keep_cols = [
+        "Estimate!!Gini Index",
+        "Margin of Error!!Gini Index",
+        "year",
+        "city",
+        "state",
+    ]
+    df = df[keep_cols]
+    df.columns = ["gini_index", "margin_of_error_gini_index", "year", "city", "state"]
+    return df
+
 
 def preprocess_fbi_data(fbi_data: pd.DataFrame) -> pd.DataFrame:
     """Filters hate crimes for specific religious biases and location types.
@@ -26,12 +83,15 @@ def preprocess_fbi_data(fbi_data: pd.DataFrame) -> pd.DataFrame:
         fbi_data["bias_desc"].str.contains("|".join(religious_biases), case=False)
         & (fbi_data["location_name"] == "Church/Synagogue/Temple/Mosque")
     ]
-
+    preprocessed_fbi_data = preprocessed_fbi_data.loc[
+        preprocessed_fbi_data["agency_type_name"] != "County"
+    ]
+    preprocessed_fbi_data["year"] = preprocessed_fbi_data["data_year"]
     keep_cols = [
-        "data_year",
-        "pug_agency_name",
+        "year",
+        # "pug_agency_name",
         "agency_type_name",
-        "state_name",
+        # "state_name",
         "population_group_description",
         "incident_date",
         "offense_name",
@@ -39,8 +99,13 @@ def preprocess_fbi_data(fbi_data: pd.DataFrame) -> pd.DataFrame:
         "bias_desc",
         "victim_types",
         "counter",
+        "city",
+        "state",
     ]
     preprocessed_fbi_data["counter"] = 1
+    preprocessed_fbi_data["city"] = preprocessed_fbi_data["pug_agency_name"]
+    preprocessed_fbi_data["state"] = preprocessed_fbi_data["state_name"]
+
     return preprocessed_fbi_data[keep_cols]
 
 

@@ -1,1 +1,1 @@
-{"fbi_data": {"rows": 241663, "columns": 28, "file_size": 57630961}, "preprocessed_fbi_data": {"rows": 5186, "columns": 11, "file_size": 898869}}
+{"fbi_data": {"rows": 241663, "columns": 28, "file_size": 57630961}, "preprocessed_fbi_data": {"rows": 4347, "columns": 11, "file_size": 744033}, "preprocessed_gini_data": {"rows": 7217, "columns": 5, "file_size": 288363}, "dataset": {"rows": 1090, "columns": 6, "file_size": 44187}}
