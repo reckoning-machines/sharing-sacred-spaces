@@ -7,7 +7,7 @@ pd.set_option("mode.chained_assignment", None)
 def create_dataset(
     preprocessed_fbi_data: pd.DataFrame, preprocessed_gini_data: pd.DataFrame
 ) -> pd.DataFrame:
-    df_fbi_merge = preprocessed_fbi_data[["year", "counter", "city", "state"]]
+    df_fbi_merge = preprocessed_fbi_data[["year", "target", "city", "state"]]
     df_fbi_merge["state"] = df_fbi_merge["state"].str.strip()
     preprocessed_gini_data["state"] = preprocessed_gini_data["state"].str.strip()
     dataset = df_fbi_merge.merge(
@@ -98,11 +98,11 @@ def preprocess_fbi_data(fbi_data: pd.DataFrame) -> pd.DataFrame:
         "location_name",
         "bias_desc",
         "victim_types",
-        "counter",
+        "target",
         "city",
         "state",
     ]
-    preprocessed_fbi_data["counter"] = 1
+    preprocessed_fbi_data["target"] = 1
     preprocessed_fbi_data["city"] = preprocessed_fbi_data["pug_agency_name"]
     preprocessed_fbi_data["state"] = preprocessed_fbi_data["state_name"]
 

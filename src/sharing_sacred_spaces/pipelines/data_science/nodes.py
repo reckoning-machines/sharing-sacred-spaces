@@ -7,7 +7,7 @@ from sklearn.metrics import r2_score
 from sklearn.model_selection import train_test_split
 
 
-def split_data(data: pd.DataFrame, parameters: Dict) -> Tuple:
+def split_data(dataset: pd.DataFrame, parameters: Dict) -> Tuple:
     """Splits data into features and targets training and test sets.
 
     Args:
@@ -16,8 +16,15 @@ def split_data(data: pd.DataFrame, parameters: Dict) -> Tuple:
     Returns:
         Split data.
     """
-    X = data[parameters["features"]]
-    y = data["price"]
+
+    X = dataset[parameters["features"]]
+    categories = parameters["cat_features"]
+    for category in categories:
+        print(category)
+        X[category] = X[category].astype("category")
+    cat_columns = X.select_dtypes(["category"]).columns
+    X[cat_columns] = X[cat_columns].apply(lambda x: x.cat.codes)
+    y = dataset["target"]
     X_train, X_test, y_train, y_test = train_test_split(
         X, y, test_size=parameters["test_size"], random_state=parameters["random_state"]
     )
