@@ -17,7 +17,7 @@ def split_data(dataset: pd.DataFrame, parameters: Dict) -> Tuple:
         Split data.
     """
 
-    X = dataset[parameters["features"]]
+    X = dataset[parameters["features"]].copy()
     categories = parameters["cat_features"]
     for category in categories:
         print(category)

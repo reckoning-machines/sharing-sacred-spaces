@@ -9,14 +9,22 @@ def create_dataset(
 ) -> pd.DataFrame:
     df_fbi_merge = preprocessed_fbi_data[["year", "target", "city", "state"]]
     df_fbi_merge["state"] = df_fbi_merge["state"].str.strip()
-    preprocessed_gini_data["state"] = preprocessed_gini_data["state"].str.strip()
+    preprocessed_gini_data["state"] = preprocessed_gini_data["state"].str.strip(
+    )
     dataset = df_fbi_merge.merge(
         preprocessed_gini_data,
         how="inner",
         left_on=["year", "city", "state"],
         right_on=["year", "city", "state"],
     )
-    return dataset
+
+    # Group by year, state, and city
+    grouped_dataset = dataset.groupby(["year", "state", "city"]).agg(
+        target_sum=("target", "sum"),
+        gini_index_avg=("gini_index", "mean")
+    ).reset_index()
+
+    return grouped_dataset
 
 
 def preprocess_gini_data():
@@ -44,7 +52,8 @@ def preprocess_gini_data():
         df_gini["year"] = year_name
         df_list.append(df_gini)
     df = pd.concat(df_list)
-    df[["city", "state"]] = df["Geographic Area Name"].str.split(",", expand=True)
+    df[["city", "state"]] = df["Geographic Area Name"].str.split(
+        ",", expand=True)
     df["city"] = df["city"].str.replace(" city", "")
     df["city"] = df["city"].str.replace(" zona urbana", "")
     keep_cols = [
@@ -55,7 +64,8 @@ def preprocess_gini_data():
         "state",
     ]
     df = df[keep_cols]
-    df.columns = ["gini_index", "margin_of_error_gini_index", "year", "city", "state"]
+    df.columns = ["gini_index", "margin_of_error_gini_index",
+                  "year", "city", "state"]
     return df
 
 
@@ -80,7 +90,8 @@ def preprocess_fbi_data(fbi_data: pd.DataFrame) -> pd.DataFrame:
         "Anti-Church",
     ]
     preprocessed_fbi_data = fbi_data[
-        fbi_data["bias_desc"].str.contains("|".join(religious_biases), case=False)
+        fbi_data["bias_desc"].str.contains(
+            "|".join(religious_biases), case=False)
         & (fbi_data["location_name"] == "Church/Synagogue/Temple/Mosque")
     ]
     preprocessed_fbi_data = preprocessed_fbi_data.loc[
@@ -119,7 +130,8 @@ def incidents_by_city_total(hate_crime_data: pd.DataFrame):
     city_data = hate_crime_data[hate_crime_data["agency_type_name"] == "City"]
 
     city_incidents = (
-        city_data.groupby("pug_agency_name").size().reset_index(name="incident_count")
+        city_data.groupby("pug_agency_name").size(
+        ).reset_index(name="incident_count")
     )
     fig = px.bar(
         city_incidents,
@@ -137,7 +149,8 @@ def incidents_by_state_total(hate_crime_data: pd.DataFrame):
         hate_crime_data: Filtered religious hate crime data.
     """
     state_incidents = (
-        hate_crime_data.groupby("state_name").size().reset_index(name="incident_count")
+        hate_crime_data.groupby("state_name").size(
+        ).reset_index(name="incident_count")
     )
     fig = px.bar(
         state_incidents,
@@ -154,7 +167,8 @@ def top_5_cities_trends(hate_crime_data: pd.DataFrame):
     Args:
         hate_crime_data: Filtered religious hate crime data.
     """
-    top_cities = hate_crime_data["pug_agency_name"].value_counts().head(5).index
+    top_cities = hate_crime_data["pug_agency_name"].value_counts().head(
+        5).index
     top_cities_data = hate_crime_data[
         hate_crime_data["pug_agency_name"].isin(top_cities)
     ]
@@ -199,7 +213,8 @@ def preprocess_companies(companies: pd.DataFrame) -> pd.DataFrame:
         `iata_approved` converted to boolean.
     """
     companies["iata_approved"] = _is_true(companies["iata_approved"])
-    companies["company_rating"] = _parse_percentage(companies["company_rating"])
+    companies["company_rating"] = _parse_percentage(
+        companies["company_rating"])
     return companies
 
 
@@ -213,7 +228,8 @@ def preprocess_shuttles(shuttles: pd.DataFrame) -> pd.DataFrame:
         `moon_clearance_complete` converted to boolean.
     """
     shuttles["d_check_complete"] = _is_true(shuttles["d_check_complete"])
-    shuttles["moon_clearance_complete"] = _is_true(shuttles["moon_clearance_complete"])
+    shuttles["moon_clearance_complete"] = _is_true(
+        shuttles["moon_clearance_complete"])
     shuttles["price"] = _parse_money(shuttles["price"])
     return shuttles
 
@@ -231,7 +247,8 @@ def create_model_input_table(
         Model input table.
 
     """
-    rated_shuttles = shuttles.merge(reviews, left_on="id", right_on="shuttle_id")
+    rated_shuttles = shuttles.merge(
+        reviews, left_on="id", right_on="shuttle_id")
     rated_shuttles = rated_shuttles.drop("id", axis=1)
     model_input_table = rated_shuttles.merge(
         companies, left_on="company_id", right_on="id"
