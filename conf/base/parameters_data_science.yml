@@ -4,7 +4,7 @@ model_options:
   features:
     - city
     - state
-    - gini_index
+    - gini_index_avg
   cat_features:
     - state
     - city
