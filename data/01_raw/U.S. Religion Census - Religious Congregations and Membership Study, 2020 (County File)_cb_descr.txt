@@ -1,0 +1,4192 @@
+Data File: RCMSCY20 (Description Only Codebook)
+
+1) STCOD
+State Code
+
+
+
+2) CTYCOD
+County Code
+
+
+
+3) FIPS
+FIPS Code
+
+
+
+4) COUNAM
+County Name
+
+
+
+5) STABBREV
+State Abbreviation
+
+
+
+6) STATNAM
+State Name
+
+
+
+7) POP1980
+POP1980 Total Population 1980
+
+
+
+8) POP1990
+POP1990 Total Population 1990
+
+
+
+9) POP2000
+POP2000 Total Population 2000
+
+
+
+10) POP2010
+POP2010 Total Population 2010
+
+
+
+11) POP2020
+POP2020 Total Population 2020
+
+
+
+12) TOTCNG_2020
+TOTCNG_2020 All denominations/groups -- Total number of congregations (2020)
+
+
+
+13) TOTADH_2020
+TOTADH_2020 All denominations/groups -- Total number of adherents (2020)
+
+
+
+14) TOTRATE_2020
+TOTRATE_2020 All denominations/groups -- Rates of adherence per 1,000 population (2020)
+
+
+
+15) EVANCNG_2020
+EVANCNG_2020 Evangelical Protestant -- Total number of congregations (2020)
+
+
+
+16) EVANADH_2020
+EVANADH_2020 Evangelical Protestant -- Total number of adherents (2020)
+
+
+
+17) EVANRATE_2020
+EVANRATE_2020 Evangelical Protestant -- Rates of adherence per 1,000 population (2020)
+
+
+
+18) BPRTCNG_2020
+BPRTCNG_2020 Black Protestant -- Total number of congregations (2020)
+
+
+
+19) BPRTADH_2020
+BPRTADH_2020 Black Protestant -- Total number of adherents (2020)
+
+
+
+20) BPRTRATE_2020
+BPRTRATE_2020 Black Protestant -- Rates of adherence per 1,000 population (2020)
+
+
+
+21) MPRTCNG_2020
+MPRTCNG_2020 Mainline Protestant -- Total number of congregations (2020)
+
+
+
+22) MPRTADH_2020
+MPRTADH_2020 Mainline Protestant -- Total number of adherents (2020)
+
+
+
+23) MPRTRATE_2020
+MPRTRATE_2020 Mainline Protestant -- Rates of adherence per 1,000 population (2020)
+
+
+
+24) CATHCNG_2020
+CATHCNG_2020 Catholic -- Total number of congregations (2020)
+
+
+
+25) CATHADH_2020
+CATHADH_2020 Catholic -- Total number of adherents (2020)
+
+
+
+26) CATHRATE_2020
+CATHRATE_2020 Catholic -- Rates of adherence per 1,000 population (2020)
+
+
+
+27) ORTHCNG_2020
+ORTHCNG_2020 Orthodox -- Total number of congregations (2020)
+
+
+
+28) ORTHADH_2020
+ORTHADH_2020 Orthodox -- Total number of adherents (2020)
+
+
+
+29) ORTHRATE_2020
+ORTHRATE_2020 Orthodox -- Rates of adherence per 1,000 population (2020)
+
+
+
+30) OTHCNG_2020
+OTHCNG_2020 Other -- Total number of congregations (2020)
+
+
+
+31) OTHADH_2020
+OTHADH_2020 Other -- Total number of adherents (2020)
+
+
+
+32) OTHRATE_2020
+OTHRATE_2020 Other -- Rates of adherence per 1,000 population (2020)
+
+
+
+33) OCGCNG_2020
+OCGCNG_2020 (Original) Church of God -- Total number of Congregations (2020)
+
+
+
+34) ACCCNG_2020
+ACCCNG_2020 Advent Christian Church -- Total number of Congregations (2020)
+
+
+
+35) ACCADH_2020
+ACCADH_2020 Advent Christian Church -- Total number of Adherents (2020)
+
+
+
+36) ACCRATE_2020
+ACCRATE_2020 Advent Christian Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+37) AMECNG_2020
+AMECNG_2020 African Methodist Episcopal Church -- Total number of Congregations (2020)
+
+
+
+38) AMEADH_2020
+AMEADH_2020 African Methodist Episcopal Church -- Total number of Adherents (2020)
+
+
+
+39) AMERATE_2020
+AMERATE_2020 African Methodist Episcopal Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+40) AMEZCNG_2020
+AMEZCNG_2020 African Methodist Episcopal Zion Church -- Total number of Congregations (2020)
+
+
+
+41) AMEZADH_2020
+AMEZADH_2020 African Methodist Episcopal Zion Church -- Total number of Adherents (2020)
+
+
+
+42) AMEZRATE_2020
+AMEZRATE_2020 African Methodist Episcopal Zion Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+43) ACFCNG_2020
+ACFCNG_2020 Agape Christian Fellowship -- Total number of Congregations (2020)
+
+
+
+44) ACFADH_2020
+ACFADH_2020 Agape Christian Fellowship -- Total number of Adherents (2020)
+
+
+
+45) ACFRATE_2020
+ACFRATE_2020 Agape Christian Fellowship -- Rates of Adherence per 1,000 population (2020)
+
+
+
+46) ALBCNG_2020
+ALBCNG_2020 Albanian Orthodox Diocese of America -- Total number of Congregations (2020)
+
+
+
+47) ALBADH_2020
+ALBADH_2020 Albanian Orthodox Diocese of America -- Total number of Adherents (2020)
+
+
+
+48) ALBRATE_2020
+ALBRATE_2020 Albanian Orthodox Diocese of America -- Rates of Adherence per 1,000 population (2020)
+
+
+
+49) ALBPCNG_2020
+ALBPCNG_2020 Alliance of Baptists -- Total number of Congregations (2020)
+
+
+
+50) AMANCNG_2020
+AMANCNG_2020 Amana Church Society -- Total number of Congregations (2020)
+
+
+
+51) AMANADH_2020
+AMANADH_2020 Amana Church Society -- Total number of Adherents (2020)
+
+
+
+52) AMANRATE_2020
+AMANRATE_2020 Amana Church Society -- Rates of Adherence per 1,000 population (2020)
+
+
+
+53) AAMCNG_2020
+AAMCNG_2020 Ambassadors Amish Mennonite -- Total number of Congregations (2020)
+
+
+
+54) AAMADH_2020
+AAMADH_2020 Ambassadors Amish Mennonite -- Total number of Adherents (2020)
+
+
+
+55) AAMRATE_2020
+AAMRATE_2020 Ambassadors Amish Mennonite -- Rates of Adherence per 1,000 population (2020)
+
+
+
+56) AACCNG_2020
+AACCNG_2020 American Anglican Church -- Total number of Congregations (2020)
+
+
+
+57) AALCCNG_2020
+AALCCNG_2020 American Association of Lutheran Churches -- Total number of Congregations (2020)
+
+
+
+58) ABACNG_2020
+ABACNG_2020 American Baptist Association, The -- Total number of Congregations (2020)
+
+
+
+59) ABAADH_2020
+ABAADH_2020 American Baptist Association, The -- Total number of Adherents (2020)
+
+
+
+60) ABARATE_2020
+ABARATE_2020 American Baptist Association, The -- Rates of Adherence per 1,000 population (2020)
+
+
+
+61) ABCCNG_2020
+ABCCNG_2020 American Baptist Churches in the USA -- Total number of Congregations (2020)
+
+
+
+62) ABCADH_2020
+ABCADH_2020 American Baptist Churches in the USA -- Total number of Adherents (2020)
+
+
+
+63) ABCRATE_2020
+ABCRATE_2020 American Baptist Churches in the USA -- Rates of Adherence per 1,000 population (2020)
+
+
+
+64) ACROCNG_2020
+ACROCNG_2020 American Carpatho-Russian Orthodox Diocese -- Total number of Congregations (2020)
+
+
+
+65) ACROADH_2020
+ACROADH_2020 American Carpatho-Russian Orthodox Diocese -- Total number of Adherents (2020)
+
+
+
+66) ACRORATE_2020
+ACRORATE_2020 American Carpatho-Russian Orthodox Diocese -- Rates of Adherence per 1,000 population (2020)
+
+
+
+67) AEUCNG_2020
+AEUCNG_2020 American Ethical Union -- Total number of Congregations (2020)
+
+
+
+68) APCCNG_2020
+APCCNG_2020 American Presbyterian Church -- Total number of Congregations (2020)
+
+
+
+69) AMSHCNG_2020
+AMSHCNG_2020 Amish Groups, undifferentiated -- Total number of Congregations (2020)
+
+
+
+70) AMSHADH_2020
+AMSHADH_2020 Amish Groups, undifferentiated -- Total number of Adherents (2020)
+
+
+
+71) AMSHRATE_2020
+AMSHRATE_2020 Amish Groups, undifferentiated -- Rates of Adherence per 1,000 population (2020)
+
+
+
+72) ADCCNG_2020
+ADCCNG_2020 Anabaptist Disciples of Christ -- Total number of Congregations (2020)
+
+
+
+73) ADCADH_2020
+ADCADH_2020 Anabaptist Disciples of Christ -- Total number of Adherents (2020)
+
+
+
+74) ADCRATE_2020
+ADCRATE_2020 Anabaptist Disciples of Christ -- Rates of Adherence per 1,000 population (2020)
+
+
+
+75) ANCCCNG_2020
+ANCCCNG_2020 Anglican Catholic Church -- Total number of Congregations (2020)
+
+
+
+76) ANCACNG_2020
+ANCACNG_2020 Anglican Church in America -- Total number of Congregations (2020)
+
+
+
+77) ACNACNG_2020
+ACNACNG_2020 Anglican Church in North America -- Total number of Congregations (2020)
+
+
+
+78) APACNG_2020
+APACNG_2020 Anglican Province of America -- Total number of Congregations (2020)
+
+
+
+79) APCKCNG_2020
+APCKCNG_2020 Anglican Province of Christ the King -- Total number of Congregations (2020)
+
+
+
+80) AOCACNG_2020
+AOCACNG_2020 Antiochian Orthodox Christian Archdiocese of North America, The -- Total number of Congregations (2020)
+
+
+
+81) AOCAADH_2020
+AOCAADH_2020 Antiochian Orthodox Christian Archdiocese of North America, The -- Total number of Adherents (2020)
+
+
+
+82) AOCARATE_2020
+AOCARATE_2020 Antiochian Orthodox Christian Archdiocese of North America, The -- Rates of Adherence per 1,000 population (2020)
+
+
+
+83) ACCNECNG_2020
+ACCNECNG_2020 Apostolic Christian Church (Nazarene) - East Conference -- Total number of Congregations (2020)
+
+
+
+84) ACCNEADH_2020
+ACCNEADH_2020 Apostolic Christian Church (Nazarene) - East Conference -- Total number of Adherents (2020)
+
+
+
+85) ACCNERATE_2020
+ACCNERATE_2020 Apostolic Christian Church (Nazarene) - East Conference -- Rates of Adherence per 1,000 population (2020)
+
+
+
+86) ACCNWCNG_2020
+ACCNWCNG_2020 Apostolic Christian Church (Nazarene) - West Conference -- Total number of Congregations (2020)
+
+
+
+87) ACCNWADH_2020
+ACCNWADH_2020 Apostolic Christian Church (Nazarene) - West Conference -- Total number of Adherents (2020)
+
+
+
+88) ACCNWRATE_2020
+ACCNWRATE_2020 Apostolic Christian Church (Nazarene) - West Conference -- Rates of Adherence per 1,000 population (2020)
+
+
+
+89) ACCACNG_2020
+ACCACNG_2020 Apostolic Christian Church of America -- Total number of Congregations (2020)
+
+
+
+90) ACCAADH_2020
+ACCAADH_2020 Apostolic Christian Church of America -- Total number of Adherents (2020)
+
+
+
+91) ACCARATE_2020
+ACCARATE_2020 Apostolic Christian Church of America -- Rates of Adherence per 1,000 population (2020)
+
+
+
+92) APCFCNG_2020
+APCFCNG_2020 Apostolic Christian Faith -- Total number of Congregations (2020)
+
+
+
+93) APCFADH_2020
+APCFADH_2020 Apostolic Christian Faith -- Total number of Adherents (2020)
+
+
+
+94) APCFRATE_2020
+APCFRATE_2020 Apostolic Christian Faith -- Rates of Adherence per 1,000 population (2020)
+
+
+
+95) AFMCCNG_2020
+AFMCCNG_2020 Apostolic Faith Mission of Portland, OR -- Total number of Congregations (2020)
+
+
+
+96) ALCACNG_2020
+ALCACNG_2020 Apostolic Lutheran Church of America -- Total number of Congregations (2020)
+
+
+
+97) AMNCCNG_2020
+AMNCCNG_2020 Appalachian Mennonite Church -- Total number of Congregations (2020)
+
+
+
+98) AMNCADH_2020
+AMNCADH_2020 Appalachian Mennonite Church -- Total number of Adherents (2020)
+
+
+
+99) AMNCRATE_2020
+AMNCRATE_2020 Appalachian Mennonite Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+100) AACACNG_2020
+AACACNG_2020 Armenian Apostolic Church of America (Catholicosate of Cilicia) -- Total number of Congregations (2020)
+
+
+
+101) AACAADH_2020
+AACAADH_2020 Armenian Apostolic Church of America (Catholicosate of Cilicia) -- Total number of Adherents (2020)
+
+
+
+102) AACARATE_2020
+AACARATE_2020 Armenian Apostolic Church of America (Catholicosate of Cilicia) -- Rates of Adherence per 1,000 population (2020)
+
+
+
+103) ARMCNG_2020
+ARMCNG_2020 Armenian Church of North America (Catholicosate of Etchmiadzin) -- Total number of Congregations (2020)
+
+
+
+104) ARMADH_2020
+ARMADH_2020 Armenian Church of North America (Catholicosate of Etchmiadzin) -- Total number of Adherents (2020)
+
+
+
+105) ARMRATE_2020
+ARMRATE_2020 Armenian Church of North America (Catholicosate of Etchmiadzin) -- Rates of Adherence per 1,000 population (2020)
+
+
+
+106) AECCNG_2020
+AECCNG_2020 Armenian Evangelical Churches (Additional) -- Total number of Congregations (2020)
+
+
+
+107) AGCCNG_2020
+AGCCNG_2020 Assemblies of God -- Total number of Congregations (2020)
+
+
+
+108) AGCADH_2020
+AGCADH_2020 Assemblies of God -- Total number of Adherents (2020)
+
+
+
+109) AGCRATE_2020
+AGCRATE_2020 Assemblies of God -- Rates of Adherence per 1,000 population (2020)
+
+
+
+110) ALJCCNG_2020
+ALJCCNG_2020 Assemblies of the Lord Jesus Christ -- Total number of Congregations (2020)
+
+
+
+111) ARPCCNG_2020
+ARPCCNG_2020 Associate Reformed Presbyterian Church -- Total number of Congregations (2020)
+
+
+
+112) AFLCCNG_2020
+AFLCCNG_2020 Association of Free Lutheran Congregations -- Total number of Congregations (2020)
+
+
+
+113) AFLCADH_2020
+AFLCADH_2020 Association of Free Lutheran Congregations -- Total number of Adherents (2020)
+
+
+
+114) AFLCRATE_2020
+AFLCRATE_2020 Association of Free Lutheran Congregations -- Rates of Adherence per 1,000 population (2020)
+
+
+
+115) AMCCNG_2020
+AMCCNG_2020 Association of Messianic Congregations -- Total number of Congregations (2020)
+
+
+
+116) ARBCCNG_2020
+ARBCCNG_2020 Association of Reformed Baptist Churches of America -- Total number of Congregations (2020)
+
+
+
+117) BFUSACNG_2020
+BFUSACNG_2020 Baha'i Faith USA -- Total number of Congregations (2020)
+
+
+
+118) BFUSAADH_2020
+BFUSAADH_2020 Baha'i Faith USA -- Total number of Adherents (2020)
+
+
+
+119) BFUSARATE_2020
+BFUSARATE_2020 Baha'i Faith USA -- Rates of Adherence per 1,000 population (2020)
+
+
+
+120) BMAACNG_2020
+BMAACNG_2020 Baptist Missionary Association of America -- Total number of Congregations (2020)
+
+
+
+121) BAMCCNG_2020
+BAMCCNG_2020 Beachy Amish Mennonite Churches -- Total number of Congregations (2020)
+
+
+
+122) BAMCADH_2020
+BAMCADH_2020 Beachy Amish Mennonite Churches -- Total number of Adherents (2020)
+
+
+
+123) BAMCRATE_2020
+BAMCRATE_2020 Beachy Amish Mennonite Churches -- Rates of Adherence per 1,000 population (2020)
+
+
+
+124) BAOCCNG_2020
+BAOCCNG_2020 Belarusan Autocephalous Orthodox Church -- Total number of Congregations (2020)
+
+
+
+125) BICCNG_2020
+BICCNG_2020 Believers in Christ -- Total number of Congregations (2020)
+
+
+
+126) BICADH_2020
+BICADH_2020 Believers in Christ -- Total number of Adherents (2020)
+
+
+
+127) BICRATE_2020
+BICRATE_2020 Believers in Christ -- Rates of Adherence per 1,000 population (2020)
+
+
+
+128) BAMCNG_2020
+BAMCNG_2020 Berea Amish-Mennonite -- Total number of Congregations (2020)
+
+
+
+129) BAMADH_2020
+BAMADH_2020 Berea Amish-Mennonite -- Total number of Adherents (2020)
+
+
+
+130) BAMRATE_2020
+BAMRATE_2020 Berea Amish-Mennonite -- Rates of Adherence per 1,000 population (2020)
+
+
+
+131) BFCHCNG_2020
+BFCHCNG_2020 Berean Fundamental Church -- Total number of Congregations (2020)
+
+
+
+132) BFMCCNG_2020
+BFMCCNG_2020 Bethel Fellowship Mennonite Churches -- Total number of Congregations (2020)
+
+
+
+133) BFMCADH_2020
+BFMCADH_2020 Bethel Fellowship Mennonite Churches -- Total number of Adherents (2020)
+
+
+
+134) BFMCRATE_2020
+BFMCRATE_2020 Bethel Fellowship Mennonite Churches -- Rates of Adherence per 1,000 population (2020)
+
+
+
+135) BMAICNG_2020
+BMAICNG_2020 Bethel Ministeral Association, Inc. -- Total number of Congregations (2020)
+
+
+
+136) BFCCNG_2020
+BFCCNG_2020 Bible Fellowship Church -- Total number of Congregations (2020)
+
+
+
+137) BFCADH_2020
+BFCADH_2020 Bible Fellowship Church -- Total number of Adherents (2020)
+
+
+
+138) BFCRATE_2020
+BFCRATE_2020 Bible Fellowship Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+139) BHCCNG_2020
+BHCCNG_2020 Bible Holiness Church -- Total number of Congregations (2020)
+
+
+
+140) BMCCNG_2020
+BMCCNG_2020 Bible Methodist Connection -- Total number of Congregations (2020)
+
+
+
+141) BPCCNG_2020
+BPCCNG_2020 Bible Presbyterian Church (General Synod) -- Total number of Congregations (2020)
+
+
+
+142) BWCCNG_2020
+BWCCNG_2020 Bible Way Church of Our Lord Jesus Christ World Wide, Inc. -- Total number of Congregations (2020)
+
+
+
+143) BWCADH_2020
+BWCADH_2020 Bible Way Church of Our Lord Jesus Christ World Wide, Inc. -- Total number of Adherents (2020)
+
+
+
+144) BWCRATE_2020
+BWCRATE_2020 Bible Way Church of Our Lord Jesus Christ World Wide, Inc. -- Rates of Adherence per 1,000 population (2020)
+
+
+
+145) BMACNG_2020
+BMACNG_2020 Biblical Mennonite Alliance -- Total number of Congregations (2020)
+
+
+
+146) BMAADH_2020
+BMAADH_2020 Biblical Mennonite Alliance -- Total number of Adherents (2020)
+
+
+
+147) BMARATE_2020
+BMARATE_2020 Biblical Mennonite Alliance -- Rates of Adherence per 1,000 population (2020)
+
+
+
+148) BCACNG_2020
+BCACNG_2020 Brethren Church, The (Ashland, Ohio) -- Total number of Congregations (2020)
+
+
+
+149) BCCCNG_2020
+BCCCNG_2020 Brethren In Christ Church -- Total number of Congregations (2020)
+
+
+
+150) BRUDCNG_2020
+BRUDCNG_2020 Bruderhof Communities, Inc. -- Total number of Congregations (2020)
+
+
+
+151) BRUDADH_2020
+BRUDADH_2020 Bruderhof Communities, Inc. -- Total number of Adherents (2020)
+
+
+
+152) BRUDRATE_2020
+BRUDRATE_2020 Bruderhof Communities, Inc. -- Rates of Adherence per 1,000 population (2020)
+
+
+
+153) BULGCNG_2020
+BULGCNG_2020 Bulgarian Eastern Orthodox Diocese of the USA, Canada and Australia -- Total number of Congregations (2020)
+
+
+
+154) BULGADH_2020
+BULGADH_2020 Bulgarian Eastern Orthodox Diocese of the USA, Canada and Australia -- Total number of Adherents (2020)
+
+
+
+155) BULGRATE_2020
+BULGRATE_2020 Bulgarian Eastern Orthodox Diocese of the USA, Canada and Australia -- Rates of Adherence per 1,000 population (2020)
+
+
+
+156) CCFCCNG_2020
+CCFCCNG_2020 Calvary Chapel Fellowship Churches -- Total number of Congregations (2020)
+
+
+
+157) CARCCNG_2020
+CARCCNG_2020 Canadian and American Reformed Churches -- Total number of Congregations (2020)
+
+
+
+158) APCNACNG_2020
+APCNACNG_2020 Catholic Apostolic Church in North America -- Total number of Congregations (2020)
+
+
+
+159) CTHCNG_2020
+CTHCNG_2020 Catholic Church -- Total number of Congregations (2020)
+
+
+
+160) CTHADH_2020
+CTHADH_2020 Catholic Church -- Total number of Adherents (2020)
+
+
+
+161) CTHRATE_2020
+CTHRATE_2020 Catholic Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+162) CBAMCNG_2020
+CBAMCNG_2020 Central Baptist Association Ministries -- Total number of Congregations (2020)
+
+
+
+163) CBAMADH_2020
+CBAMADH_2020 Central Baptist Association Ministries -- Total number of Adherents (2020)
+
+
+
+164) CBAMRATE_2020
+CBAMRATE_2020 Central Baptist Association Ministries -- Rates of Adherence per 1,000 population (2020)
+
+
+
+165) CJCNG_2020
+CJCNG_2020 Chabad Judaism -- Total number of Congregations (2020)
+
+
+
+166) CFCNG_2020
+CFCNG_2020 Charis Fellowship -- Total number of Congregations (2020)
+
+
+
+167) CHRDCNG_2020
+CHRDCNG_2020 Christadelphian -- Total number of Congregations (2020)
+
+
+
+168) CMACNG_2020
+CMACNG_2020 Christian and Missionary Alliance, The -- Total number of Congregations (2020)
+
+
+
+169) CMAADH_2020
+CMAADH_2020 Christian and Missionary Alliance, The -- Total number of Adherents (2020)
+
+
+
+170) CMARATE_2020
+CMARATE_2020 Christian and Missionary Alliance, The -- Rates of Adherence per 1,000 population (2020)
+
+
+
+171) CACHCNG_2020
+CACHCNG_2020 Christian Apostolic Church -- Total number of Congregations (2020)
+
+
+
+172) CACHADH_2020
+CACHADH_2020 Christian Apostolic Church -- Total number of Adherents (2020)
+
+
+
+173) CACHRATE_2020
+CACHRATE_2020 Christian Apostolic Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+174) CBCCNG_2020
+CBCCNG_2020 Christian Brethren -- Total number of Congregations (2020)
+
+
+
+175) CCDCCNG_2020
+CCDCCNG_2020 Christian Church (Disciples of Christ) -- Total number of Congregations (2020)
+
+
+
+176) CCDCADH_2020
+CCDCADH_2020 Christian Church (Disciples of Christ) -- Total number of Adherents (2020)
+
+
+
+177) CCDCRATE_2020
+CCDCRATE_2020 Christian Church (Disciples of Christ) -- Rates of Adherence per 1,000 population (2020)
+
+
+
+178) CCCCCNG_2020
+CCCCCNG_2020 Christian Churches and Churches of Christ -- Total number of Congregations (2020)
+
+
+
+179) CCCCADH_2020
+CCCCADH_2020 Christian Churches and Churches of Christ -- Total number of Adherents (2020)
+
+
+
+180) CCCCRATE_2020
+CCCCRATE_2020 Christian Churches and Churches of Christ -- Rates of Adherence per 1,000 population (2020)
+
+
+
+181) CHCOCNG_2020
+CHCOCNG_2020 Christian Communities -- Total number of Congregations (2020)
+
+
+
+182) CHCOADH_2020
+CHCOADH_2020 Christian Communities -- Total number of Adherents (2020)
+
+
+
+183) CHCORATE_2020
+CHCORATE_2020 Christian Communities -- Rates of Adherence per 1,000 population (2020)
+
+
+
+184) CCNACNG_2020
+CCNACNG_2020 Christian Congregation in North America -- Total number of Congregations (2020)
+
+
+
+185) CMECNG_2020
+CMECNG_2020 Christian Methodist Episcopal Church -- Total number of Congregations (2020)
+
+
+
+186) CMEADH_2020
+CMEADH_2020 Christian Methodist Episcopal Church -- Total number of Adherents (2020)
+
+
+
+187) CMERATE_2020
+CMERATE_2020 Christian Methodist Episcopal Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+188) CRCCNG_2020
+CRCCNG_2020 Christian Reformed Church in North America -- Total number of Congregations (2020)
+
+
+
+189) CRCADH_2020
+CRCADH_2020 Christian Reformed Church in North America -- Total number of Adherents (2020)
+
+
+
+190) CRCRATE_2020
+CRCRATE_2020 Christian Reformed Church in North America -- Rates of Adherence per 1,000 population (2020)
+
+
+
+191) CSHCCNG_2020
+CSHCCNG_2020 Christ's Sanctified Holy Church -- Total number of Congregations (2020)
+
+
+
+192) COCHCNG_2020
+COCHCNG_2020 Church of Christ -- Total number of Congregations (2020)
+
+
+
+193) CCHCNG_2020
+CCHCNG_2020 Church of Christ (Holiness), U.S.A. -- Total number of Congregations (2020)
+
+
+
+194) CGCMCNG_2020
+CGCMCNG_2020 Church of God in Christ, Mennonite -- Total number of Congregations (2020)
+
+
+
+195) CGCMADH_2020
+CGCMADH_2020 Church of God in Christ, Mennonite -- Total number of Adherents (2020)
+
+
+
+196) CGCMRATE_2020
+CGCMRATE_2020 Church of God in Christ, Mennonite -- Rates of Adherence per 1,000 population (2020)
+
+
+
+197) CCSCNG_2020
+CCSCNG_2020 Church of Christ, Scientist -- Total number of Congregations (2020)
+
+
+
+198) TCOGCNG_2020
+TCOGCNG_2020 The Church of God -- Total number of Congregations (2020)
+
+
+
+199) CGAICNG_2020
+CGAICNG_2020 Church of God (Anderson, Indiana) -- Total number of Congregations (2020)
+
+
+
+200) CGAIADH_2020
+CGAIADH_2020 Church of God (Anderson, Indiana) -- Total number of Adherents (2020)
+
+
+
+201) CGAIRATE_2020
+CGAIRATE_2020 Church of God (Anderson, Indiana) -- Rates of Adherence per 1,000 population (2020)
+
+
+
+202) COGACNG_2020
+COGACNG_2020 Church of God (Apostolic) -- Total number of Congregations (2020)
+
+
+
+203) CGCTCNG_2020
+CGCTCNG_2020 Church of God (Cleveland, Tennessee) -- Total number of Congregations (2020)
+
+
+
+204) CGCTADH_2020
+CGCTADH_2020 Church of God (Cleveland, Tennessee) -- Total number of Adherents (2020)
+
+
+
+205) CGCTRATE_2020
+CGCTRATE_2020 Church of God (Cleveland, Tennessee) -- Rates of Adherence per 1,000 population (2020)
+
+
+
+206) CG7DCNG_2020
+CG7DCNG_2020 Church of God (Seventh Day) -- Total number of Congregations (2020)
+
+
+
+207) COGSCCNG_2020
+COGSCCNG_2020 Church of God and Saints of Christ -- Total number of Congregations (2020)
+
+
+
+208) CGFCNG_2020
+CGFCNG_2020 Church of God by Faith, Inc. -- Total number of Congregations (2020)
+
+
+
+209) CGGCCNG_2020
+CGGCCNG_2020 Church of God General Conference -- Total number of Congregations (2020)
+
+
+
+210) CGGCADH_2020
+CGGCADH_2020 Church of God General Conference -- Total number of Adherents (2020)
+
+
+
+211) CGGCRATE_2020
+CGGCRATE_2020 Church of God General Conference -- Rates of Adherence per 1,000 population (2020)
+
+
+
+212) CGCCNG_2020
+CGCCNG_2020 Church of God in Christ -- Total number of Congregations (2020)
+
+
+
+213) CGCADH_2020
+CGCADH_2020 Church of God in Christ -- Total number of Adherents (2020)
+
+
+
+214) CGCRATE_2020
+CGCRATE_2020 Church of God in Christ -- Rates of Adherence per 1,000 population (2020)
+
+
+
+215) CGPCNG_2020
+CGPCNG_2020 Church of God of Prophecy -- Total number of Congregations (2020)
+
+
+
+216) CGAFCNG_2020
+CGAFCNG_2020 Church of God of the Apostolic Faith, Inc. -- Total number of Congregations (2020)
+
+
+
+217) COGFCNG_2020
+COGFCNG_2020 Church of God of the Firstborn -- Total number of Congregations (2020)
+
+
+
+218) CGMACNG_2020
+CGMACNG_2020 Church of God, Mountain Assembly, Inc. -- Total number of Congregations (2020)
+
+
+
+219) LDSCNG_2020
+LDSCNG_2020 Church of Jesus Christ of Latter-day Saints, The -- Total number of Congregations (2020)
+
+
+
+220) LDSADH_2020
+LDSADH_2020 Church of Jesus Christ of Latter-day Saints, The -- Total number of Adherents (2020)
+
+
+
+221) LDSRATE_2020
+LDSRATE_2020 Church of Jesus Christ of Latter-day Saints, The -- Rates of Adherence per 1,000 population (2020)
+
+
+
+222) CJCBCNG_2020
+CJCBCNG_2020 Church of Jesus Christ, The (Bickertonites) -- Total number of Congregations (2020)
+
+
+
+223) CAFCNG_2020
+CAFCNG_2020 Church of Our Lord Jesus Christ of the Apostolic Faith, Inc. -- Total number of Congregations (2020)
+
+
+
+224) CAFADH_2020
+CAFADH_2020 Church of Our Lord Jesus Christ of the Apostolic Faith, Inc. -- Total number of Adherents (2020)
+
+
+
+225) CAFRATE_2020
+CAFRATE_2020 Church of Our Lord Jesus Christ of the Apostolic Faith, Inc. -- Rates of Adherence per 1,000 population (2020)
+
+
+
+226) CBRCNG_2020
+CBRCNG_2020 Church of the Brethren -- Total number of Congregations (2020)
+
+
+
+227) CBRADH_2020
+CBRADH_2020 Church of the Brethren -- Total number of Adherents (2020)
+
+
+
+228) CBRRATE_2020
+CBRRATE_2020 Church of the Brethren -- Rates of Adherence per 1,000 population (2020)
+
+
+
+229) CGOCCNG_2020
+CGOCCNG_2020 Church of the Genuine Orthodox Christians -- Total number of Congregations (2020)
+
+
+
+230) CGOCADH_2020
+CGOCADH_2020 Church of the Genuine Orthodox Christians -- Total number of Adherents (2020)
+
+
+
+231) CGOCRATE_2020
+CGOCRATE_2020 Church of the Genuine Orthodox Christians -- Rates of Adherence per 1,000 population (2020)
+
+
+
+232) CLGCWCNG_2020
+CLGCWCNG_2020 Church of the Living God (Christian Workers for Fellowship) -- Total number of Congregations (2020)
+
+
+
+233) CLGPGCNG_2020
+CLGPGCNG_2020 Church of the Living God: Pillar and Ground of the Truth -- Total number of Congregations (2020)
+
+
+
+234) CLBACNG_2020
+CLBACNG_2020 Church of the Lutheran Brethren of America -- Total number of Congregations (2020)
+
+
+
+235) CLCCNG_2020
+CLCCNG_2020 Church of the Lutheran Confession -- Total number of Congregations (2020)
+
+
+
+236) NAZCNG_2020
+NAZCNG_2020 Church of the Nazarene -- Total number of Congregations (2020)
+
+
+
+237) NAZADH_2020
+NAZADH_2020 Church of the Nazarene -- Total number of Adherents (2020)
+
+
+
+238) NAZRATE_2020
+NAZRATE_2020 Church of the Nazarene -- Rates of Adherence per 1,000 population (2020)
+
+
+
+239) CUBCCNG_2020
+CUBCCNG_2020 Church of the United Brethren in Christ -- Total number of Congregations (2020)
+
+
+
+240) CUBCADH_2020
+CUBCADH_2020 Church of the United Brethren in Christ -- Total number of Adherents (2020)
+
+
+
+241) CUBCRATE_2020
+CUBCRATE_2020 Church of the United Brethren in Christ -- Rates of Adherence per 1,000 population (2020)
+
+
+
+242) CHCHCNG_2020
+CHCHCNG_2020 Churches of Christ -- Total number of Congregations (2020)
+
+
+
+243) CHCHADH_2020
+CHCHADH_2020 Churches of Christ -- Total number of Adherents (2020)
+
+
+
+244) CHCHRATE_2020
+CHCHRATE_2020 Churches of Christ -- Rates of Adherence per 1,000 population (2020)
+
+
+
+245) CCCUCNG_2020
+CCCUCNG_2020 Churches of Christ in Christian Union -- Total number of Congregations (2020)
+
+
+
+246) CHGNCNG_2020
+CHGNCNG_2020 Churches of God, General Conference -- Total number of Congregations (2020)
+
+
+
+247) CHGNADH_2020
+CHGNADH_2020 Churches of God, General Conference -- Total number of Adherents (2020)
+
+
+
+248) CHGNRATE_2020
+CHGNRATE_2020 Churches of God, General Conference -- Rates of Adherence per 1,000 population (2020)
+
+
+
+249) CRECCNG_2020
+CRECCNG_2020 Communion of Reformed Evangelical Churches -- Total number of Congregations (2020)
+
+
+
+250) COCCNG_2020
+COCCNG_2020 Community of Christ -- Total number of Congregations (2020)
+
+
+
+251) COLCCNG_2020
+COLCCNG_2020 Concordia Lutheran Conference -- Total number of Congregations (2020)
+
+
+
+252) CCCCNG_2020
+CCCCNG_2020 Congregational Christian Churches, Additional (not part of any national CCC body) -- Total number of Congregations (2020)
+
+
+
+253) CCCADH_2020
+CCCADH_2020 Congregational Christian Churches, Additional (not part of any national CCC body) -- Total number of Adherents (2020)
+
+
+
+254) CCCRATE_2020
+CCCRATE_2020 Congregational Christian Churches, Additional (not part of any national CCC body) -- Rates of Adherence per 1,000 population (2020)
+
+
+
+255) CHCCNG_2020
+CHCCNG_2020 Congregational Holiness Church -- Total number of Congregations (2020)
+
+
+
+256) CMCCNG_2020
+CMCCNG_2020 Congregational Methodist Church -- Total number of Congregations (2020)
+
+
+
+257) CCONCNG_2020
+CCONCNG_2020 Conservative Congregational Christian Conference -- Total number of Congregations (2020)
+
+
+
+258) CCONADH_2020
+CCONADH_2020 Conservative Congregational Christian Conference -- Total number of Adherents (2020)
+
+
+
+259) CCONRATE_2020
+CCONRATE_2020 Conservative Congregational Christian Conference -- Rates of Adherence per 1,000 population (2020)
+
+
+
+260) CJUDCNG_2020
+CJUDCNG_2020 Conservative Judaism -- Total number of Congregations (2020)
+
+
+
+261) CJUDADH_2020
+CJUDADH_2020 Conservative Judaism -- Total number of Adherents (2020)
+
+
+
+262) CJUDRATE_2020
+CJUDRATE_2020 Conservative Judaism -- Rates of Adherence per 1,000 population (2020)
+
+
+
+263) CMCYACNG_2020
+CMCYACNG_2020 Conservative Mennonite Churches of York and Adams Counties PA -- Total number of Congregations (2020)
+
+
+
+264) CMCYACADH_2020
+CMCYACADH_2020 Conservative Mennonite Churches of York and Adams Counties PA -- Total number of Adherents (2020)
+
+
+
+265) CMCYACRATE_2020
+CMCYACRATE_2020 Conservative Mennonite Churches of York and Adams Counties PA -- Rates of Adherence per 1,000 population (2020)
+
+
+
+266) CMCOCNG_2020
+CMCOCNG_2020 Conservative Mennonite Conference -- Total number of Congregations (2020)
+
+
+
+267) CMCOADH_2020
+CMCOADH_2020 Conservative Mennonite Conference -- Total number of Adherents (2020)
+
+
+
+268) CMOCRATE_2020
+CMOCRATE_2020 Conservative Mennonite Conference -- Rates of Adherence per 1,000 population (2020)
+
+
+
+269) CYFRCNG_2020
+CYFRCNG_2020 Conservative Yearly Meetings of Friends -- Total number of Congregations (2020)
+
+
+
+270) CYFRADH_2020
+CYFRADH_2020 Conservative Yearly Meetings of Friends -- Total number of Adherents (2020)
+
+
+
+271) CYFRRATE_2020
+CYFRRATE_2020 Conservative Yearly Meetings of Friends -- Rates of Adherence per 1,000 population (2020)
+
+
+
+272) OFWBCNG_2020
+OFWBCNG_2020 Convention of Original Free Will Baptists -- Total number of Congregations (2020)
+
+
+
+273) OFWBADH_2020
+OFWBADH_2020 Convention of Original Free Will Baptists -- Total number of Adherents (2020)
+
+
+
+274) OFWBRATE_2020
+OFWBRATE_2020 Convention of Original Free Will Baptists -- Rates of Adherence per 1,000 population (2020)
+
+
+
+275) CWCNG_2020
+CWCNG_2020 Converge Worldwide/Baptist General Conference -- Total number of Congregations (2020)
+
+
+
+276) COPTCNG_2020
+COPTCNG_2020 Coptic Orthodox Church -- Total number of Congregations (2020)
+
+
+
+277) COPTADH_2020
+COPTADH_2020 Coptic Orthodox Church -- Total number of Adherents (2020)
+
+
+
+278) COPTRATE_2020
+COPTRATE_2020 Coptic Orthodox Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+279) CPCHCNG_2020
+CPCHCNG_2020 Covenant Presbyterian Church -- Total number of Congregations (2020)
+
+
+
+280) CRPCCNG_2020
+CRPCCNG_2020 Covenant Reformed Presbyterian Church -- Total number of Congregations (2020)
+
+
+
+281) CUMBCNG_2020
+CUMBCNG_2020 Cumberland Presbyterian Church -- Total number of Congregations (2020)
+
+
+
+282) CUMBADH_2020
+CUMBADH_2020 Cumberland Presbyterian Church -- Total number of Adherents (2020)
+
+
+
+283) CUMBRATE_2020
+CUMBRATE_2020 Cumberland Presbyterian Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+284) CPCACNG_2020
+CPCACNG_2020 Cumberland Presbyterian Church in America -- Total number of Congregations (2020)
+
+
+
+285) CPCAADH_2020
+CPCAADH_2020 Cumberland Presbyterian Church in America -- Total number of Adherents (2020)
+
+
+
+286) CPCARATE_2020
+CPCARATE_2020 Cumberland Presbyterian Church in America -- Rates of Adherence per 1,000 population (2020)
+
+
+
+287) CVMCCNG_2020
+CVMCCNG_2020 Cumberland Valley Mennonite Church -- Total number of Congregations (2020)
+
+
+
+288) CVMCADH_2020
+CVMCADH_2020 Cumberland Valley Mennonite Church -- Total number of Adherents (2020)
+
+
+
+289) CVMCRATE_2020
+CVMCRATE_2020 Cumberland Valley Mennonite Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+290) DHCNG_2020
+DHCNG_2020 Dariusleut Hutterite -- Total number of Congregations (2020)
+
+
+
+291) DHADH_2020
+DHADH_2020 Dariusleut Hutterite -- Total number of Adherents (2020)
+
+
+
+292) DHRATE_2020
+DHRATE_2020 Dariusleut Hutterite -- Rates of Adherence per 1,000 population (2020)
+
+
+
+293) DHCCNG_2020
+DHCCNG_2020 Diocese of the Holy Cross -- Total number of Congregations (2020)
+
+
+
+294) DUBCCNG_2020
+DUBCCNG_2020 Dunkard Brethren Church -- Total number of Congregations (2020)
+
+
+
+295) DUBCADH_2020
+DUBCADH_2020 Dunkard Brethren Church -- Total number of Adherents (2020)
+
+
+
+296) DUBCRATE_2020
+DUBCRATE_2020 Dunkard Brethren Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+297) EPMCCNG_2020
+EPMCCNG_2020 Eastern Pennsylvania Mennonite Church -- Total number of Congregations (2020)
+
+
+
+298) EPMCADH_2020
+EPMCADH_2020 Eastern Pennsylvania Mennonite Church -- Total number of Adherents (2020)
+
+
+
+299) EPMCRATE_2020
+EPMCRATE_2020 Eastern Pennsylvania Mennonite Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+300) ECOPCNG_2020
+ECOPCNG_2020 ECO: A Covenant Order of Presbyterians -- Total number of Congregations (2020)
+
+
+
+301) ECTHCCNG_2020
+ECTHCCNG_2020 Ecumenical Catholic Church -- Total number of Congregations (2020)
+
+
+
+302) ECTHCOCNG_2020
+ECTHCOCNG_2020 Ecumenical Catholic Communion -- Total number of Congregations (2020)
+
+
+
+303) ECTHCOADH_2020
+ECTHCOADH_2020 Ecumenical Catholic Communion -- Total number of Adherents (2020)
+
+
+
+304) ECTHCORATE_2020
+ECTHCORATE_2020 Ecumenical Catholic Communion -- Rates of Adherence per 1,000 population (2020)
+
+
+
+305) ELIMCNG_2020
+ELIMCNG_2020 Elim Fellowship -- Total number of Congregations (2020)
+
+
+
+306) ECCNG_2020
+ECCNG_2020 Episcopal Church -- Total number of Congregations (2020)
+
+
+
+307) ECADH_2020
+ECADH_2020 Episcopal Church -- Total number of Adherents (2020)
+
+
+
+308) ECRATE_2020
+ECRATE_2020 Episcopal Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+309) EMCHCNG_2020
+EMCHCNG_2020 Episcopal Missionary Church -- Total number of Congregations (2020)
+
+
+
+310) EOCNG_2020
+EOCNG_2020 Eritrean Orthodox -- Total number of Congregations (2020)
+
+
+
+311) EOADH_2020
+EOADH_2020 Eritrean Orthodox -- Total number of Adherents (2020)
+
+
+
+312) EORATE_2020
+EORATE_2020 Eritrean Orthodox -- Rates of Adherence per 1,000 population (2020)
+
+
+
+313) ETHOCNG_2020
+ETHOCNG_2020 Ethiopian Orthodox -- Total number of Congregations (2020)
+
+
+
+314) ETHOADH_2020
+ETHOADH_2020 Ethiopian Orthodox -- Total number of Adherents (2020)
+
+
+
+315) ETHORATE_2020
+ETHORATE_2020 Ethiopian Orthodox -- Rates of Adherence per 1,000 population (2020)
+
+
+
+316) EVPRCNG_2020
+EVPRCNG_2020 Evangel Presbytery -- Total number of Congregations (2020)
+
+
+
+317) EARCNG_2020
+EARCNG_2020 Evangelical Association of Reformed & Congregational Christian Churches -- Total number of Congregations (2020)
+
+
+
+318) EVCHCNG_2020
+EVCHCNG_2020 Evangelical Church, The -- Total number of Congregations (2020)
+
+
+
+319) EVCHADH_2020
+EVCHADH_2020 Evangelical Church, The -- Total number of Adherents (2020)
+
+
+
+320) EVCHRATE_2020
+EVCHRATE_2020 Evangelical Church, The -- Rates of Adherence per 1,000 population (2020)
+
+
+
+321) ECCCNG_2020
+ECCCNG_2020 Evangelical Congregational Church, The -- Total number of Congregations (2020)
+
+
+
+322) ECOVCNG_2020
+ECOVCNG_2020 Evangelical Covenant Church, The -- Total number of Congregations (2020)
+
+
+
+323) ECOVADH_2020
+ECOVADH_2020 Evangelical Covenant Church, The -- Total number of Adherents (2020)
+
+
+
+324) ECOVRATE_2020
+ECOVRATE_2020 Evangelical Covenant Church, The -- Rates of Adherence per 1,000 population (2020)
+
+
+
+325) EFCACNG_2020
+EFCACNG_2020 Evangelical Free Church of America, The -- Total number of Congregations (2020)
+
+
+
+326) EFCICNG_2020
+EFCICNG_2020 Evangelical Friends Church International -- Total number of Congregations (2020)
+
+
+
+327) EFCIADH_2020
+EFCIADH_2020 Evangelical Friends Church International -- Total number of Adherents (2020)
+
+
+
+328) EFCIRATE_2020
+EFCIRATE_2020 Evangelical Friends Church International -- Rates of Adherence per 1,000 population (2020)
+
+
+
+329) ELCACNG_2020
+ELCACNG_2020 Evangelical Lutheran Church in America -- Total number of Congregations (2020)
+
+
+
+330) ELCAADH_2020
+ELCAADH_2020 Evangelical Lutheran Church in America -- Total number of Adherents (2020)
+
+
+
+331) ELCARATE_2020
+ELCARATE_2020 Evangelical Lutheran Church in America -- Rates of Adherence per 1,000 population (2020)
+
+
+
+332) ELCMNACNG_2020
+ELCMNACNG_2020 Evangelical Lutheran Conference and Ministerium of North America -- Total number of Congregations (2020)
+
+
+
+333) ELDNACNG_2020
+ELDNACNG_2020 Evangelical Lutheran Diocese of North America -- Total number of Congregations (2020)
+
+
+
+334) ELSCNG_2020
+ELSCNG_2020 Evangelical Lutheran Synod -- Total number of Congregations (2020)
+
+
+
+335) ELSADH_2020
+ELSADH_2020 Evangelical Lutheran Synod -- Total number of Adherents (2020)
+
+
+
+336) ELSRATE_2020
+ELSRATE_2020 Evangelical Lutheran Synod -- Rates of Adherence per 1,000 population (2020)
+
+
+
+337) EMCCNG_2020
+EMCCNG_2020 Evangelical Methodist Church -- Total number of Congregations (2020)
+
+
+
+338) EPCCNG_2020
+EPCCNG_2020 Evangelical Presbyterian Church -- Total number of Congregations (2020)
+
+
+
+339) ENATCNG_2020
+ENATCNG_2020 Every Nation -- Total number of Congregations (2020)
+
+
+
+340) FRCCNG_2020
+FRCCNG_2020 Federation of Reformed Churches -- Total number of Congregations (2020)
+
+
+
+341) FCACNG_2020
+FCACNG_2020 Fellowship of Christian Assemblies -- Total number of Congregations (2020)
+
+
+
+342) FEBCCNG_2020
+FEBCCNG_2020 Fellowship of Evangelical Bible Churches -- Total number of Congregations (2020)
+
+
+
+343) FECCNG_2020
+FECCNG_2020 Fellowship of Evangelical Churches -- Total number of Congregations (2020)
+
+
+
+344) FECADH_2020
+FECADH_2020 Fellowship of Evangelical Churches -- Total number of Adherents (2020)
+
+
+
+345) FECRATE_2020
+FECRATE_2020 Fellowship of Evangelical Churches -- Rates of Adherence per 1,000 population (2020)
+
+
+
+346) FFBCCNG_2020
+FFBCCNG_2020 Fellowship of Fundamentalist Bible Churches -- Total number of Congregations (2020)
+
+
+
+347) FBHCACNG_2020
+FBHCACNG_2020 Fire-Baptized Holiness Church of the Americas -- Total number of Congregations (2020)
+
+
+
+348) FOURCNG_2020
+FOURCNG_2020 Foursquare Gospel, International Church of the -- Total number of Congregations (2020)
+
+
+
+349) FOURADH_2020
+FOURADH_2020 Foursquare Gospel, International Church of the -- Total number of Adherents (2020)
+
+
+
+350) FOURRATE_2020
+FOURRATE_2020 Foursquare Gospel, International Church of the -- Rates of Adherence per 1,000 population (2020)
+
+
+
+351) FCSCNG_2020
+FCSCNG_2020 Free Church of Scotland (Continuing) -- Total number of Congregations (2020)
+
+
+
+352) FMCCNG_2020
+FMCCNG_2020 Free Methodist Church of North America -- Total number of Congregations (2020)
+
+
+
+353) FMCADH_2020
+FMCADH_2020 Free Methodist Church of North America -- Total number of Adherents (2020)
+
+
+
+354) FMCRATE_2020
+FMCRATE_2020 Free Methodist Church of North America -- Rates of Adherence per 1,000 population (2020)
+
+
+
+355) FPCCNG_2020
+FPCCNG_2020 Free Presbyterian Church of North America -- Total number of Congregations (2020)
+
+
+
+356) FPCSCNG_2020
+FPCSCNG_2020 Free Presbyterian Church of Scotland -- Total number of Congregations (2020)
+
+
+
+357) FRCHCNG_2020
+FRCHCNG_2020 Free Reformed Church of North America -- Total number of Congregations (2020)
+
+
+
+358) FGCCNG_2020
+FGCCNG_2020 Friends General Conference -- Total number of Congregations (2020)
+
+
+
+359) FGCADH_2020
+FGCADH_2020 Friends General Conference -- Total number of Adherents (2020)
+
+
+
+360) FGCRATE_2020
+FGCRATE_2020 Friends General Conference -- Rates of Adherence per 1,000 population (2020)
+
+
+
+361) FRNDCNG_2020
+FRNDCNG_2020 Friends General Conference and Friends United Meeting, dually aligned meetings -- Total number of Congregations (2020)
+
+
+
+362) FRNDADH_2020
+FRNDADH_2020 Friends General Conference and Friends United Meeting, dually aligned meetings -- Total number of Adherents (2020)
+
+
+
+363) FRNDRATE_2020
+FRNDRATE_2020 Friends General Conference and Friends United Meeting, dually aligned meetings -- Rates of Adherence per 1,000 population (2020)
+
+
+
+364) FUMCNG_2020
+FUMCNG_2020 Friends United Meeting -- Total number of Congregations (2020)
+
+
+
+365) FUMADH_2020
+FUMADH_2020 Friends United Meeting -- Total number of Adherents (2020)
+
+
+
+366) FUMRATE_2020
+FUMRATE_2020 Friends United Meeting -- Rates of Adherence per 1,000 population (2020)
+
+
+
+367) FGAICNG_2020
+FGAICNG_2020 Full Gospel Assemblies International -- Total number of Congregations (2020)
+
+
+
+368) FGBCNG_2020
+FGBCNG_2020 Full Gospel Baptist Church Fellowship -- Total number of Congregations (2020)
+
+
+
+369) FGBADH_2020
+FGBADH_2020 Full Gospel Baptist Church Fellowship -- Total number of Adherents (2020)
+
+
+
+370) FGBRATE_2020
+FGBRATE_2020 Full Gospel Baptist Church Fellowship -- Rates of Adherence per 1,000 population (2020)
+
+
+
+371) FGCAICNG_2020
+FGCAICNG_2020 Full Gospel Christian Assemblies International -- Total number of Congregations (2020)
+
+
+
+372) FGCAIADH_2020
+FGCAIADH_2020 Full Gospel Christian Assemblies International -- Total number of Adherents (2020)
+
+
+
+373) FGCAIRATE_2020
+FGCAIRATE_2020 Full Gospel Christian Assemblies International -- Rates of Adherence per 1,000 population (2020)
+
+
+
+374) GAGBCNG_2020
+GAGBCNG_2020 General Association of General Baptists -- Total number of Congregations (2020)
+
+
+
+375) GAGBADH_2020
+GAGBADH_2020 General Association of General Baptists -- Total number of Adherents (2020)
+
+
+
+376) GAGBRATE_2020
+GAGBRATE_2020 General Association of General Baptists -- Rates of Adherence per 1,000 population (2020)
+
+
+
+377) GARBCNG_2020
+GARBCNG_2020 General Association of Regular Baptist Churches -- Total number of Congregations (2020)
+
+
+
+378) GCNJCNG_2020
+GCNJCNG_2020 General Church of the New Jerusalem -- Total number of Congregations (2020)
+
+
+
+379) GOPCNG_2020
+GOPCNG_2020 Georgian Orthodox Parishes in the United States -- Total number of Congregations (2020)
+
+
+
+380) GOPADH_2020
+GOPADH_2020 Georgian Orthodox Parishes in the United States -- Total number of Adherents (2020)
+
+
+
+381) GOPRATE_2020
+GOPRATE_2020 Georgian Orthodox Parishes in the United States -- Rates of Adherence per 1,000 population (2020)
+
+
+
+382) GPCACCNG_2020
+GPCACCNG_2020 German Apostolic/Christian Apostolic Churches -- Total number of Congregations (2020)
+
+
+
+383) GPCACADH_2020
+GPCACADH_2020 German Apostolic/Christian Apostolic Churches -- Total number of Adherents (2020)
+
+
+
+384) CPCACRATE_2020
+CPCACRATE_2020 German Apostolic/Christian Apostolic Churches -- Rates of Adherence per 1,000 population (2020)
+
+
+
+385) GBBCNG_2020
+GBBCNG_2020 German Baptist Brethren -- Total number of Congregations (2020)
+
+
+
+386) GBBADH_2020
+GBBADH_2020 German Baptist Brethren -- Total number of Adherents (2020)
+
+
+
+387) GBBRATE_2020
+GBBRATE_2020 German Baptist Brethren -- Rates of Adherence per 1,000 population (2020)
+
+
+
+388) GCICNG_2020
+GCICNG_2020 Grace Communion International -- Total number of Congregations (2020)
+
+
+
+389) GGFCNG_2020
+GGFCNG_2020 Grace Gospel Fellowship -- Total number of Congregations (2020)
+
+
+
+390) GRKCNG_2020
+GRKCNG_2020 Greek Orthodox Archdiocese of America -- Total number of Congregations (2020)
+
+
+
+391) GRKADH_2020
+GRKADH_2020 Greek Orthodox Archdiocese of America -- Total number of Adherents (2020)
+
+
+
+392) GRKRATE_2020
+GRKRATE_2020 Greek Orthodox Archdiocese of America -- Rates of Adherence per 1,000 population (2020)
+
+
+
+393) HMFCNG_2020
+HMFCNG_2020 Haven Mennonite Fellowship -- Total number of Congregations (2020)
+
+
+
+394) HMFADH_2020
+HMFADH_2020 Haven Mennonite Fellowship -- Total number of Adherents (2020)
+
+
+
+395) HMFRATE_2020
+HMFRATE_2020 Haven Mennonite Fellowship -- Rates of Adherence per 1,000 population (2020)
+
+
+
+396) HRCCNG_2020
+HRCCNG_2020 Heritage Reformed Churches -- Total number of Congregations (2020)
+
+
+
+397) HRCADH_2020
+HRCADH_2020 Heritage Reformed Churches -- Total number of Adherents (2020)
+
+
+
+398) HRCRATE_2020
+HRCRATE_2020 Heritage Reformed Churches -- Rates of Adherence per 1,000 population (2020)
+
+
+
+399) HGAAACNG_2020
+HGAAACNG_2020 Higher Ground Always Abounding Assemblies -- Total number of Congregations (2020)
+
+
+
+400) HINTCNG_2020
+HINTCNG_2020 Hindu Temples -- Total number of Congregations (2020)
+
+
+
+401) HINTADH_2020
+HINTADH_2020 Hindu Temples -- Total number of Adherents (2020)
+
+
+
+402) HINTRATE_2020
+HINTRATE_2020 Hindu Temples -- Rates of Adherence per 1,000 population (2020)
+
+
+
+403) HINYMCNG_2020
+HINYMCNG_2020 Hindu Yoga and Meditation -- Total number of Congregations (2020)
+
+
+
+404) HINYMADH_2020
+HINYMADH_2020 Hindu Yoga and Meditation -- Total number of Adherents (2020)
+
+
+
+405) HINYMRATE_2020
+HINYMRATE_2020 Hindu Yoga and Meditation -- Rates of Adherence per 1,000 population (2020)
+
+
+
+406) HCOGCNG_2020
+HCOGCNG_2020 Holiness Church Of God, Inc., The -- Total number of Congregations (2020)
+
+
+
+407) HCCARCNG_2020
+HCCARCNG_2020 Holy Catholic Church Anglican Rite -- Total number of Congregations (2020)
+
+
+
+408) HOCCNG_2020
+HOCCNG_2020 Holy Orthodox Church in North America -- Total number of Congregations (2020)
+
+
+
+409) HOCADH_2020
+HOCADH_2020 Holy Orthodox Church in North America -- Total number of Adherents (2020)
+
+
+
+410) HOCRATE_2020
+HOCRATE_2020 Holy Orthodox Church in North America -- Rates of Adherence per 1,000 population (2020)
+
+
+
+411) HOOMCCNG_2020
+HOOMCCNG_2020 Hoover Old Order Mennonite Church -- Total number of Congregations (2020)
+
+
+
+412) HOOMCADH_2020
+HOOMCADH_2020 Hoover Old Order Mennonite Church -- Total number of Adherents (2020)
+
+
+
+413) HOOMCRATE_2020
+HOOMCRATE_2020 Hoover Old Order Mennonite Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+414) HMFLCNG_2020
+HMFLCNG_2020 Hope Mennonite Fellowship -- Total number of Congregations (2020)
+
+
+
+415) HMFLADH_2020
+HMFLADH_2020 Hope Mennonite Fellowship -- Total number of Adherents (2020)
+
+
+
+416) HMFLRATE_2020
+HMFLRATE_2020 Hope Mennonite Fellowship -- Rates of Adherence per 1,000 population (2020)
+
+
+
+417) HGHCLGCNG_2020
+HGHCLGCNG_2020 House of God, Holy Church of the Living God, The Pillar and Ground of the Truth, House of Prayer for All People -- Total number of Congregations (2020)
+
+
+
+418) HCCCNG_2020
+HCCCNG_2020 Hutterite Christian Communities -- Total number of Congregations (2020)
+
+
+
+419) HCCADH_2020
+HCCADH_2020 Hutterite Christian Communities -- Total number of Adherents (2020)
+
+
+
+420) HCCRATE_2020
+HCCRATE_2020 Hutterite Christian Communities -- Rates of Adherence per 1,000 population (2020)
+
+
+
+421) ICBCNG_2020
+ICBCNG_2020 Independent Conservative Brethren -- Total number of Congregations (2020)
+
+
+
+422) ICBADH_2020
+ICBADH_2020 Independent Conservative Brethren -- Total number of Adherents (2020)
+
+
+
+423) ICBRATE_2020
+ICBRATE_2020 Independent Conservative Brethren -- Rates of Adherence per 1,000 population (2020)
+
+
+
+424) IJUDCNG_2020
+IJUDCNG_2020 Independent Judaism -- Total number of Congregations (2020)
+
+
+
+425) IJUDADH_2020
+IJUDADH_2020 Independent Judaism -- Total number of Adherents (2020)
+
+
+
+426) IJUDRATE_2020
+IJUDRATE_2020 Independent Judaism -- Rates of Adherence per 1,000 population (2020)
+
+
+
+427) ILUTHDCNG_2020
+ILUTHDCNG_2020 Independent Lutheran Diocese -- Total number of Congregations (2020)
+
+
+
+428) ILUTHDADH_2020
+ILUTHDADH_2020 Independent Lutheran Diocese -- Total number of Adherents (2020)
+
+
+
+429) ILUTHDRATE_2020
+ILUTHDRATE_2020 Independent Lutheran Diocese -- Rates of Adherence per 1,000 population (2020)
+
+
+
+430) IYMFCNG_2020
+IYMFCNG_2020 Independent Yearly Meetings of Friends -- Total number of Congregations (2020)
+
+
+
+431) IYMFADH_2020
+IYMFADH_2020 Independent Yearly Meetings of Friends -- Total number of Adherents (2020)
+
+
+
+432) IYMFRATE_2020
+IYMFRATE_2020 Independent Yearly Meetings of Friends -- Rates of Adherence per 1,000 population (2020)
+
+
+
+433) IBAORBCNG_2020
+IBAORBCNG_2020 Indian Bottom Association of Old Regular Baptists -- Total number of Congregations (2020)
+
+
+
+434) IBAORBADH_2020
+IBAORBADH_2020 Indian Bottom Association of Old Regular Baptists -- Total number of Adherents (2020)
+
+
+
+435) IBAORBRATE_2020
+IBAORBRATE_2020 Indian Bottom Association of Old Regular Baptists -- Rates of Adherence per 1,000 population (2020)
+
+
+
+436) ICCCNG_2020
+ICCCNG_2020 International Churches of Christ -- Total number of Congregations (2020)
+
+
+
+437) ICCADH_2020
+ICCADH_2020 International Churches of Christ -- Total number of Adherents (2020)
+
+
+
+438) ICCRATE_2020
+ICCRATE_2020 International Churches of Christ -- Rates of Adherence per 1,000 population (2020)
+
+
+
+439) ICCECCNG_2020
+ICCECCNG_2020 International Communion of the Charismatic Episcopal Church -- Total number of Congregations (2020)
+
+
+
+440) ICCCCNG_2020
+ICCCCNG_2020 International Council of Community Churches -- Total number of Congregations (2020)
+
+
+
+441) IFBCCNG_2020
+IFBCCNG_2020 International Fellowship of Bible Churches -- Total number of Congregations (2020)
+
+
+
+442) INTFCNG_2020
+INTFCNG_2020 International Fellowship of Christian Assemblies -- Total number of Congregations (2020)
+
+
+
+443) IPCCCNG_2020
+IPCCCNG_2020 International Pentecostal Church of Christ -- Total number of Congregations (2020)
+
+
+
+444) JAINCNG_2020
+JAINCNG_2020 Jain -- Total number of Congregations (2020)
+
+
+
+445) JWCNG_2020
+JWCNG_2020 Jehovah's Witnesses -- Total number of Congregations (2020)
+
+
+
+446) JWADH_2020
+JWADH_2020 Jehovah's Witnesses -- Total number of Adherents (2020)
+
+
+
+447) JWRATE_2020
+JWRATE_2020 Jehovah's Witnesses -- Rates of Adherence per 1,000 population (2020)
+
+
+
+448) KCCCNG_2020
+KCCCNG_2020 Kentucky Christian Conference -- Total number of Congregations (2020)
+
+
+
+449) KMFCNG_2020
+KMFCNG_2020 Keystone Mennonite Fellowship -- Total number of Congregations (2020)
+
+
+
+450) KMFADH_2020
+KMFADH_2020 Keystone Mennonite Fellowship -- Total number of Adherents (2020)
+
+
+
+451) KMFRATE_2020
+KMFRATE_2020 Keystone Mennonite Fellowship -- Rates of Adherence per 1,000 population (2020)
+
+
+
+452) KCUSACNG_2020
+KCUSACNG_2020 Knanaya Churches in the USA -- Total number of Congregations (2020)
+
+
+
+453) KCUSAADH_2020
+KCUSAADH_2020 Knanaya Churches in the USA -- Total number of Adherents (2020)
+
+
+
+454) KCUSARATE_2020
+KCUSARATE_2020 Knanaya Churches in the USA -- Rates of Adherence per 1,000 population (2020)
+
+
+
+455) LLCCNG_2020
+LLCCNG_2020 Laestadian Lutheran Church -- Total number of Congregations (2020)
+
+
+
+456) LELCACNG_2020
+LELCACNG_2020 Latvian Evangelical Lutheran Church in America -- Total number of Congregations (2020)
+
+
+
+457) LHUTTCNG_2020
+LHUTTCNG_2020 Lehrerleut Hutterite -- Total number of Congregations (2020)
+
+
+
+458) LHUTTADH_2020
+LHUTTADH_2020 Lehrerleut Hutterite -- Total number of Adherents (2020)
+
+
+
+459) LHUTTRATE_2020
+LHUTTRATE_2020 Lehrerleut Hutterite -- Rates of Adherence per 1,000 population (2020)
+
+
+
+460) LCCCNG_2020
+LCCCNG_2020 Liberal Catholic Church -- Total number of Congregations (2020)
+
+
+
+461) LFMCCNG_2020
+LFMCCNG_2020 Little Flock Mennonite Churches -- Total number of Congregations (2020)
+
+
+
+462) LFMCADH_2020
+LFMCADH_2020 Little Flock Mennonite Churches -- Total number of Adherents (2020)
+
+
+
+463) LFMCRATE_2020
+LFMCRATE_2020 Little Flock Mennonite Churches -- Rates of Adherence per 1,000 population (2020)
+
+
+
+464) LRACHCNG_2020
+LRACHCNG_2020 Lumber River Annual Conference of the Holiness Methodist Church -- Total number of Congregations (2020)
+
+
+
+465) LCMSCNG_2020
+LCMSCNG_2020 Lutheran Church--Missouri Synod -- Total number of Congregations (2020)
+
+
+
+466) LCMSADH_2020
+LCMSADH_2020 Lutheran Church--Missouri Synod -- Total number of Adherents (2020)
+
+
+
+467) LCMSRATE_2020
+LCMSRATE_2020 Lutheran Church--Missouri Synod -- Rates of Adherence per 1,000 population (2020)
+
+
+
+468) LCMCCNG_2020
+LCMCCNG_2020 Lutheran Congregations in Mission for Christ -- Total number of Congregations (2020)
+
+
+
+469) LCMCADH_2020
+LCMCADH_2020 Lutheran Congregations in Mission for Christ -- Total number of Adherents (2020)
+
+
+
+470) LCMCRATE_2020
+LCMCRATE_2020 Lutheran Congregations in Mission for Christ -- Rates of Adherence per 1,000 population (2020)
+
+
+
+471) MOCCNG_2020
+MOCCNG_2020 Macedonian Orthodox Church: American Diocese -- Total number of Congregations (2020)
+
+
+
+472) MOCADH_2020
+MOCADH_2020 Macedonian Orthodox Church: American Diocese -- Total number of Adherents (2020)
+
+
+
+473) MOCRATE_2020
+MOCRATE_2020 Macedonian Orthodox Church: American Diocese -- Rates of Adherence per 1,000 population (2020)
+
+
+
+474) MAHBUDCNG_2020
+MAHBUDCNG_2020 Mahayana Buddhist -- Total number of Congregations (2020)
+
+
+
+475) MAHBUDADH_2020
+MAHBUDADH_2020 Mahayana Buddhist -- Total number of Adherents (2020)
+
+
+
+476) MAHBUDRATE_2020
+MAHBUDRATE_2020 Mahayana Buddhist -- Rates of Adherence per 1,000 population (2020)
+
+
+
+477) MALACNG_2020
+MALACNG_2020 Malankara Archdiocese of the Syrian Orthodox Church in North America -- Total number of Congregations (2020)
+
+
+
+478) MALAADH_2020
+MALAADH_2020 Malankara Archdiocese of the Syrian Orthodox Church in North America -- Total number of Adherents (2020)
+
+
+
+479) MALARATE_2020
+MALARATE_2020 Malankara Archdiocese of the Syrian Orthodox Church in North America -- Rates of Adherence per 1,000 population (2020)
+
+
+
+480) MMTCCNG_2020
+MMTCCNG_2020 Malankara Mar Thoma Church -- Total number of Congregations (2020)
+
+
+
+481) MMTCADH_2020
+MMTCADH_2020 Malankara Mar Thoma Church -- Total number of Adherents (2020)
+
+
+
+482) MMTCRATE_2020
+MMTCRATE_2020 Malankara Mar Thoma Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+483) MOSCCNG_2020
+MOSCCNG_2020 Malankara Orthodox Syrian Church -- Total number of Congregations (2020)
+
+
+
+484) MOSCADH_2020
+MOSCADH_2020 Malankara Orthodox Syrian Church -- Total number of Adherents (2020)
+
+
+
+485) MOSCRATE_2020
+MOSCRATE_2020 Malankara Orthodox Syrian Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+486) MAMCNG_2020
+MAMCNG_2020 Maranatha Amish-Mennonite -- Total number of Congregations (2020)
+
+
+
+487) MAMADH_2020
+MAMADH_2020 Maranatha Amish-Mennonite -- Total number of Adherents (2020)
+
+
+
+488) MAMRATE_2020
+MAMRATE_2020 Maranatha Amish-Mennonite -- Rates of Adherence per 1,000 population (2020)
+
+
+
+489) MSOOMCNG_2020
+MSOOMCNG_2020 Meadow Springs Old Order Mennonite -- Total number of Congregations (2020)
+
+
+
+490) MSOOMADH_2020
+MSOOMADH_2020 Meadow Springs Old Order Mennonite -- Total number of Adherents (2020)
+
+
+
+491) MSOOMRATE_2020
+MSOOMRATE_2020 Meadow Springs Old Order Mennonite -- Rates of Adherence per 1,000 population (2020)
+
+
+
+492) MCFCNG_2020
+MCFCNG_2020 Mennonite Christian Fellowship -- Total number of Congregations (2020)
+
+
+
+493) MCFADH_2020
+MCFADH_2020 Mennonite Christian Fellowship -- Total number of Adherents (2020)
+
+
+
+494) MCFRATE_2020
+MCFRATE_2020 Mennonite Christian Fellowship -- Rates of Adherence per 1,000 population (2020)
+
+
+
+495) MENNCNG_2020
+MENNCNG_2020 Mennonite Church USA -- Total number of Congregations (2020)
+
+
+
+496) MENNADH_2020
+MENNADH_2020 Mennonite Church USA -- Total number of Adherents (2020)
+
+
+
+497) MENNRATE_2020
+MENNRATE_2020 Mennonite Church USA -- Rates of Adherence per 1,000 population (2020)
+
+
+
+498) MCCCNG_2020
+MCCCNG_2020 Metropolitan Community Churches, Universal Fellowship of -- Total number of Congregations (2020)
+
+
+
+499) MCCADH_2020
+MCCADH_2020 Metropolitan Community Churches, Universal Fellowship of -- Total number of Adherents (2020)
+
+
+
+500) MCCRATE_2020
+MCCRATE_2020 Metropolitan Community Churches, Universal Fellowship of -- Rates of Adherence per 1,000 population (2020)
+
+
+
+501) MAMFCNG_2020
+MAMFCNG_2020 Mid-Atlantic Mennonite Fellowship -- Total number of Congregations (2020)
+
+
+
+502) MAMFADH_2020
+MAMFADH_2020 Mid-Atlantic Mennonite Fellowship -- Total number of Adherents (2020)
+
+
+
+503) MAMFRATE_2020
+MAMFRATE_2020 Mid-Atlantic Mennonite Fellowship -- Rates of Adherence per 1,000 population (2020)
+
+
+
+504) MBAMCNG_2020
+MBAMCNG_2020 Midwest Beachy Amish Mennonite -- Total number of Congregations (2020)
+
+
+
+505) MBAMADH_2020
+MBAMADH_2020 Midwest Beachy Amish Mennonite -- Total number of Adherents (2020)
+
+
+
+506) MBAMRATE_2020
+MBAMRATE_2020 Midwest Beachy Amish Mennonite -- Rates of Adherence per 1,000 population (2020)
+
+
+
+507) MMFECNG_2020
+MMFECNG_2020 Midwest Mennonite Fellowship -- Total number of Congregations (2020)
+
+
+
+508) MMFEADH_2020
+MMFEADH_2020 Midwest Mennonite Fellowship -- Total number of Adherents (2020)
+
+
+
+509) MMFERATE_2020
+MMFERATE_2020 Midwest Mennonite Fellowship -- Rates of Adherence per 1,000 population (2020)
+
+
+
+510) MISSCNG_2020
+MISSCNG_2020 Missionary Church, The -- Total number of Congregations (2020)
+
+
+
+511) MISSADH_2020
+MISSADH_2020 Missionary Church, The -- Total number of Adherents (2020)
+
+
+
+512) MISSRATE_2020
+MISSRATE_2020 Missionary Church, The -- Rates of Adherence per 1,000 population (2020)
+
+
+
+513) MVAKCNG_2020
+MVAKCNG_2020 Moravian Church in America--Alaska Province -- Total number of Congregations (2020)
+
+
+
+514) MVNOCNG_2020
+MVNOCNG_2020 Moravian Church in America--Northern Province -- Total number of Congregations (2020)
+
+
+
+515) MVNOADH_2020
+MVNOADH_2020 Moravian Church in America--Northern Province -- Total number of Adherents (2020)
+
+
+
+516) MVNORATE_2020
+MVNORATE_2020 Moravian Church in America--Northern Province -- Rates of Adherence per 1,000 population (2020)
+
+
+
+517) MVSOCNG_2020
+MVSOCNG_2020 Moravian Church in America--Southern Province -- Total number of Congregations (2020)
+
+
+
+518) MVSOADH_2020
+MVSOADH_2020 Moravian Church in America--Southern Province -- Total number of Adherents (2020)
+
+
+
+519) MVSORATE_2020
+MVSORATE_2020 Moravian Church in America--Southern Province -- Rates of Adherence per 1,000 population (2020)
+
+
+
+520) MSLMCNG_2020
+MSLMCNG_2020 Muslim Estimate -- Total number of Congregations (2020)
+
+
+
+521) MSLMADH_2020
+MSLMADH_2020 Muslim Estimate -- Total number of Adherents (2020)
+
+
+
+522) MSLMRATE_2020
+MSLMRATE_2020 Muslim Estimate -- Rates of Adherence per 1,000 population (2020)
+
+
+
+523) NACCCNG_2020
+NACCCNG_2020 National Association of Congregational Christian Churches -- Total number of Congregations (2020)
+
+
+
+524) NACCADH_2020
+NACCADH_2020 National Association of Congregational Christian Churches -- Total number of Adherents (2020)
+
+
+
+525) NACCRATE_2020
+NACCRATE_2020 National Association of Congregational Christian Churches -- Rates of Adherence per 1,000 population (2020)
+
+
+
+526) FWBCNG_2020
+FWBCNG_2020 National Association of Free Will Baptists -- Total number of Congregations (2020)
+
+
+
+527) FWBADH_2020
+FWBADH_2020 National Association of Free Will Baptists -- Total number of Adherents (2020)
+
+
+
+528) FWBRATE_2020
+FWBRATE_2020 National Association of Free Will Baptists -- Rates of Adherence per 1,000 population (2020)
+
+
+
+529) NBCACNG_2020
+NBCACNG_2020 National Baptist Convention of America, Inc. -- Total number of Congregations (2020)
+
+
+
+530) NBCAADH_2020
+NBCAADH_2020 National Baptist Convention of America, Inc. -- Total number of Adherents (2020)
+
+
+
+531) NBCARATE_2020
+NBCARATE_2020 National Baptist Convention of America, Inc. -- Rates of Adherence per 1,000 population (2020)
+
+
+
+532) NBCCNG_2020
+NBCCNG_2020 National Baptist Convention, USA, Inc. -- Total number of Congregations (2020)
+
+
+
+533) NBCADH_2020
+NBCADH_2020 National Baptist Convention, USA, Inc. -- Total number of Adherents (2020)
+
+
+
+534) NBCRATE_2020
+NBCRATE_2020 National Baptist Convention, USA, Inc. -- Rates of Adherence per 1,000 population (2020)
+
+
+
+535) NMBCCNG_2020
+NMBCCNG_2020 National Missionary Baptist Convention, Inc. -- Total number of Congregations (2020)
+
+
+
+536) NMBCADH_2020
+NMBCADH_2020 National Missionary Baptist Convention, Inc. -- Total number of Adherents (2020)
+
+
+
+537) NMBCRATE_2020
+NMBCRATE_2020 National Missionary Baptist Convention, Inc. -- Rates of Adherence per 1,000 population (2020)
+
+
+
+538) NPBCCNG_2020
+NPBCCNG_2020 National Primitive Baptist Convention, USA -- Total number of Congregations (2020)
+
+
+
+539) NPBCADH_2020
+NPBCADH_2020 National Primitive Baptist Convention, USA -- Total number of Adherents (2020)
+
+
+
+540) NPBCRATE_2020
+NPBCRATE_2020 National Primitive Baptist Convention, USA -- Rates of Adherence per 1,000 population (2020)
+
+
+
+541) NSACCNG_2020
+NSACCNG_2020 National Spiritualist Association of Churches -- Total number of Congregations (2020)
+
+
+
+542) NFMCCNG_2020
+NFMCCNG_2020 Nationwide Fellowship Mennonite Churches -- Total number of Congregations (2020)
+
+
+
+543) NFMCADH_2020
+NFMCADH_2020 Nationwide Fellowship Mennonite Churches -- Total number of Adherents (2020)
+
+
+
+544) NFMCRATE_2020
+NFMCRATE_2020 Nationwide Fellowship Mennonite Churches -- Rates of Adherence per 1,000 population (2020)
+
+
+
+545) NCCABCNG_2020
+NCCABCNG_2020 Nazarene Christian Congregation (Side A or B) -- Total number of Congregations (2020)
+
+
+
+546) NCCABADH_2020
+NCCABADH_2020 Nazarene Christian Congregation (Side A or B) -- Total number of Adherents (2020)
+
+
+
+547) NCCABRATE_2020
+NCCABRATE_2020 Nazarene Christian Congregation (Side A or B) -- Rates of Adherence per 1,000 population (2020)
+
+
+
+548) NERCCNG_2020
+NERCCNG_2020 Netherlands Reformed Congregations -- Total number of Congregations (2020)
+
+
+
+549) NWAPCNG_2020
+NWAPCNG_2020 New Apostolic Church of North America, National Organization of the -- Total number of Congregations (2020)
+
+
+
+550) IBCCNG_2020
+IBCCNG_2020 New Testament Association of Independent Baptist Churches -- Total number of Congregations (2020)
+
+
+
+551) NONDCNG_2020
+NONDCNG_2020 Non-denominational -- Total number of Congregations (2020)
+
+
+
+552) NONDADH_2020
+NONDADH_2020 Non-denominational -- Total number of Adherents (2020)
+
+
+
+553) NONDRATE_2020
+NONDRATE_2020 Non-denominational -- Rates of Adherence per 1,000 population (2020)
+
+
+
+554) NABCCNG_2020
+NABCCNG_2020 North American Baptist Conference -- Total number of Congregations (2020)
+
+
+
+555) NALCCNG_2020
+NALCCNG_2020 North American Lutheran Church -- Total number of Congregations (2020)
+
+
+
+556) NAORCCCNG_2020
+NAORCCCNG_2020 North American Old Roman Catholic Church -- Total number of Congregations (2020)
+
+
+
+557) NCCCCNG_2020
+NCCCCNG_2020 North Carolina Congregational Conference -- Total number of Congregations (2020)
+
+
+
+558) NOMCCNG_2020
+NOMCCNG_2020 Northeastern Mennonite Conference -- Total number of Congregations (2020)
+
+
+
+559) NOMCADH_2020
+NOMCADH_2020 Northeastern Mennonite Conference -- Total number of Adherents (2020)
+
+
+
+560) NOMCRATE_2020
+NOMCRATE_2020 Northeastern Mennonite Conference -- Rates of Adherence per 1,000 population (2020)
+
+
+
+561) NNSACNG_2020
+NNSACNG_2020 Northern New Salem Association of Old Regular Baptists -- Total number of Congregations (2020)
+
+
+
+562) NNSAADH_2020
+NNSAADH_2020 Northern New Salem Association of Old Regular Baptists -- Total number of Adherents (2020)
+
+
+
+563) NNSARATE_2020
+NNSARATE_2020 Northern New Salem Association of Old Regular Baptists -- Rates of Adherence per 1,000 population (2020)
+
+
+
+564) NALCACNG_2020
+NALCACNG_2020 Old Apostolic Lutheran Church of America -- Total number of Congregations (2020)
+
+
+
+565) OBCACNG_2020
+OBCACNG_2020 Old Brethren (California) -- Total number of Congregations (2020)
+
+
+
+566) OBCAADH_2020
+OBCAADH_2020 Old Brethren (California) -- Total number of Adherents (2020)
+
+
+
+567) OBCARATE_2020
+OBCARATE_2020 Old Brethren (California) -- Rates of Adherence per 1,000 population (2020)
+
+
+
+568) OBGOCNG_2020
+OBGOCNG_2020 Old Brethren (Goshen) -- Total number of Congregations (2020)
+
+
+
+569) OBGOADH_2020
+OBGOADH_2020 Old Brethren (Goshen) -- Total number of Adherents (2020)
+
+
+
+570) OBGORATE_2020
+OBGORATE_2020 Old Brethren (Goshen) -- Rates of Adherence per 1,000 population (2020)
+
+
+
+571) OBGBCNG_2020
+OBGBCNG_2020 Old Brethren German Baptist -- Total number of Congregations (2020)
+
+
+
+572) OBGBADH_2020
+OBGBADH_2020 Old Brethren German Baptist -- Total number of Adherents (2020)
+
+
+
+573) OBGBRATE_2020
+OBGBRATE_2020 Old Brethren German Baptist -- Rates of Adherence per 1,000 population (2020)
+
+
+
+574) OGBBCNG_2020
+OGBBCNG_2020 Old German Baptist Brethren -- Total number of Congregations (2020)
+
+
+
+575) OGBBADH_2020
+OGBBADH_2020 Old German Baptist Brethren -- Total number of Adherents (2020)
+
+
+
+576) OGBBRATE_2020
+OGBBRATE_2020 Old German Baptist Brethren -- Rates of Adherence per 1,000 population (2020)
+
+
+
+577) OGBBNCNG_2020
+OGBBNCNG_2020 Old German Baptist Brethren, New Conference -- Total number of Congregations (2020)
+
+
+
+578) OGBBNADH_2020
+OGBBNADH_2020 Old German Baptist Brethren, New Conference -- Total number of Adherents (2020)
+
+
+
+579) OGBBNRATE_2020
+OGBBNRATE_2020 Old German Baptist Brethren, New Conference -- Rates of Adherence per 1,000 population (2020)
+
+
+
+580) OOGBCCNG_2020
+OOGBCCNG_2020 Old Order German Baptist Church -- Total number of Congregations (2020)
+
+
+
+581) OOGBCADH_2020
+OOGBCADH_2020 Old Order German Baptist Church -- Total number of Adherents (2020)
+
+
+
+582) OOGBCRATE_2020
+OOGBCRATE_2020 Old Order German Baptist Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+583) OORBCNG_2020
+OORBCNG_2020 Old Order River Brethren -- Total number of Congregations (2020)
+
+
+
+584) OORBADH_2020
+OORBADH_2020 Old Order River Brethren -- Total number of Adherents (2020)
+
+
+
+585) OORBRATE_2020
+OORBRATE_2020 Old Order River Brethren -- Rates of Adherence per 1,000 population (2020)
+
+
+
+586) OWMCCNG_2020
+OWMCCNG_2020 Old Wenger Mennonite Church -- Total number of Congregations (2020)
+
+
+
+587) OWMCADH_2020
+OWMCADH_2020 Old Wenger Mennonite Church -- Total number of Adherents (2020)
+
+
+
+588) OWMCRATE_2020
+OWMCRATE_2020 Old Wenger Mennonite Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+589) OBSCCNG_2020
+OBSCCNG_2020 Open Bible Standard Churches, Inc. -- Total number of Congregations (2020)
+
+
+
+590) OBSCADH_2020
+OBSCADH_2020 Open Bible Standard Churches, Inc. -- Total number of Adherents (2020)
+
+
+
+591) OBSCRATE_2020
+OBSCRATE_2020 Open Bible Standard Churches, Inc. -- Rates of Adherence per 1,000 population (2020)
+
+
+
+592) OVCOOMCNG_2020
+OVCOOMCNG_2020 Original Virginia Conference Old Order Mennonite -- Total number of Congregations (2020)
+
+
+
+593) OVCOOMADH_2020
+OVCOOMADH_2020 Original Virginia Conference Old Order Mennonite -- Total number of Adherents (2020)
+
+
+
+594) OVCOOMRATE_2020
+OVCOOMRATE_2020 Original Virginia Conference Old Order Mennonite -- Rates of Adherence per 1,000 population (2020)
+
+
+
+595) OACCNG_2020
+OACCNG_2020 Orthodox Anglican Church -- Total number of Congregations (2020)
+
+
+
+596) OCACNG_2020
+OCACNG_2020 Orthodox Church in America -- Total number of Congregations (2020)
+
+
+
+597) OCAADH_2020
+OCAADH_2020 Orthodox Church in America -- Total number of Adherents (2020)
+
+
+
+598) OCARATE_2020
+OCARATE_2020 Orthodox Church in America -- Rates of Adherence per 1,000 population (2020)
+
+
+
+599) OJUDCNG_2020
+OJUDCNG_2020 Orthodox Judaism -- Total number of Congregations (2020)
+
+
+
+600) OJUDADH_2020
+OJUDADH_2020 Orthodox Judaism -- Total number of Adherents (2020)
+
+
+
+601) OJUDRATE_2020
+OJUDRATE_2020 Orthodox Judaism -- Rates of Adherence per 1,000 population (2020)
+
+
+
+602) OLCCCNG_2020
+OLCCCNG_2020 Orthodox Lutheran Confessional Conference -- Total number of Congregations (2020)
+
+
+
+603) OMCHCNG_2020
+OMCHCNG_2020 Orthodox Mennonite Church -- Total number of Congregations (2020)
+
+
+
+604) OMCHADH_2020
+OMCHADH_2020 Orthodox Mennonite Church -- Total number of Adherents (2020)
+
+
+
+605) OMCHRATE_2020
+OMCHRATE_2020 Orthodox Mennonite Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+606) OORCCCNG_2020
+OORCCCNG_2020 Orthodox Old Roman Catholic Communion -- Total number of Congregations (2020)
+
+
+
+607) OPCCNG_2020
+OPCCNG_2020 Orthodox Presbyterian Church, The -- Total number of Congregations (2020)
+
+
+
+608) ROCCNG_2020
+ROCCNG_2020 Patriarchal Parishes of the Russian Orthodox Church in the USA -- Total number of Congregations (2020)
+
+
+
+609) ROCADH_2020
+ROCADH_2020 Patriarchal Parishes of the Russian Orthodox Church in the USA -- Total number of Adherents (2020)
+
+
+
+610) ROCRATE_2020
+ROCRATE_2020 Patriarchal Parishes of the Russian Orthodox Church in the USA -- Rates of Adherence per 1,000 population (2020)
+
+
+
+611) PAWCNG_2020
+PAWCNG_2020 Pentecostal Assemblies of the World -- Total number of Congregations (2020)
+
+
+
+612) PAWADH_2020
+PAWADH_2020 Pentecostal Assemblies of the World -- Total number of Adherents (2020)
+
+
+
+613) PAWRATE_2020
+PAWRATE_2020 Pentecostal Assemblies of the World -- Rates of Adherence per 1,000 population (2020)
+
+
+
+614) PCCCNG_2020
+PCCCNG_2020 Pentecostal Church of God -- Total number of Congregations (2020)
+
+
+
+615) PFWBCNG_2020
+PFWBCNG_2020 Pentecostal Free Will Baptist Church, Inc. -- Total number of Congregations (2020)
+
+
+
+616) PIMCCNG_2020
+PIMCCNG_2020 Pilgrim Mennonite Conference -- Total number of Congregations (2020)
+
+
+
+617) PIMCADH_2020
+PIMCADH_2020 Pilgrim Mennonite Conference -- Total number of Adherents (2020)
+
+
+
+618) PIMCRATE_2020
+PIMCRATE_2020 Pilgrim Mennonite Conference -- Rates of Adherence per 1,000 population (2020)
+
+
+
+619) PILMCNG_2020
+PILMCNG_2020 Pillar Ministries -- Total number of Congregations (2020)
+
+
+
+620) PVOOCNG_2020
+PVOOCNG_2020 Pleasant View Old Order (Virginia) Mennonite Conference -- Total number of Congregations (2020)
+
+
+
+621) PVOOADH_2020
+PVOOADH_2020 Pleasant View Old Order (Virginia) Mennonite Conference -- Total number of Adherents (2020)
+
+
+
+622) PVOORATE_2020
+PVOORATE_2020 Pleasant View Old Order (Virginia) Mennonite Conference -- Rates of Adherence per 1,000 population (2020)
+
+
+
+623) PNCCCNG_2020
+PNCCCNG_2020 Polish National Catholic Church -- Total number of Congregations (2020)
+
+
+
+624) PCCNG_2020
+PCCNG_2020 Presbyterian Church (U.S.A.) -- Total number of Congregations (2020)
+
+
+
+625) PCADH_2020
+PCADH_2020 Presbyterian Church (U.S.A.) -- Total number of Adherents (2020)
+
+
+
+626) PCRATE_2020
+PCRATE_2020 Presbyterian Church (U.S.A.) -- Rates of Adherence per 1,000 population (2020)
+
+
+
+627) PCACNG_2020
+PCACNG_2020 Presbyterian Church in America -- Total number of Congregations (2020)
+
+
+
+628) PCAADH_2020
+PCAADH_2020 Presbyterian Church in America -- Total number of Adherents (2020)
+
+
+
+629) PCARATE_2020
+PCARATE_2020 Presbyterian Church in America -- Rates of Adherence per 1,000 population (2020)
+
+
+
+630) PRCCNG_2020
+PRCCNG_2020 Presbyterian Reformed Church -- Total number of Congregations (2020)
+
+
+
+631) PBACNG_2020
+PBACNG_2020 Primitive Baptist Associations -- Total number of Congregations (2020)
+
+
+
+632) PBAADH_2020
+PBACNG_2020 Primitive Baptist Associations -- Total number of Adherents (2020)
+
+
+
+633) PBARATE_2020
+PBACNG_2020 Primitive Baptist Associations - Rates of Adherence per 1,000 population (2020)
+
+
+
+634) PBEDCNG_2020
+PBEDCNG_2020 Primitive Baptists, Eastern District Association of -- Total number of Congregations (2020)
+
+
+
+635) PBEDADH_2020
+PBEDADH_2020 Primitive Baptists, Eastern District Association of -- Total number of Adherents (2020)
+
+
+
+636) PBEDRATE_2020
+PBEDRATE_2020 Primitive Baptists, Eastern District Association of -- Rates of Adherence per 1,000 population (2020)
+
+
+
+637) PMCCNG_2020
+PMCCNG_2020 Primitive Methodist Church in the U.S.A. -- Total number of Congregations (2020)
+
+
+
+638) PNBCCNG_2020
+PNBCCNG_2020 Progressive National Baptist Convention, Inc. -- Total number of Congregations (2020)
+
+
+
+639) PNBCADH_2020
+PNBCADH_2020 Progressive National Baptist Convention, Inc. -- Total number of Adherents (2020)
+
+
+
+640) PNBCRATE_2020
+PNBCRATE_2020 Progressive National Baptist Convention, Inc. -- Rates of Adherence per 1,000 population (2020)
+
+
+
+641) PRPBCNG_2020
+PRPBCNG_2020 Progressive Primitive Baptists -- Total number of Congregations (2020)
+
+
+
+642) PRCACNG_2020
+PRCACNG_2020 Protestant Reformed Churches in America -- Total number of Congregations (2020)
+
+
+
+643) PRCAADH_2020
+PRCAADH_2020 Protestant Reformed Churches in America -- Total number of Adherents (2020)
+
+
+
+644) PRCARATE_2020
+PRCARATE_2020 Protestant Reformed Churches in America -- Rates of Adherence per 1,000 population (2020)
+
+
+
+645) RJUDCNG_2020
+RJUDCNG_2020 Reconstructionist Judaism -- Total number of Congregations (2020)
+
+
+
+646) RJUDADH_2020
+RJUDADH_2020 Reconstructionist Judaism -- Total number of Adherents (2020)
+
+
+
+647) RJUDRATE_2020
+RJUDRATE_2020 Reconstructionist Judaism -- Rates of Adherence per 1,000 population (2020)
+
+
+
+648) RFRMCNG_2020
+RFRMCNG_2020 Reform Judaism -- Total number of Congregations (2020)
+
+
+
+649) RFRMADH_2020
+RFRMADH_2020 Reform Judaism -- Total number of Adherents (2020)
+
+
+
+650) RFRMRATE_2020
+RFRMRATE_2020 Reform Judaism -- Rates of Adherence per 1,000 population (2020)
+
+
+
+651) RBNCNG_2020
+RBNCNG_2020 Reformed Baptist Network -- Total number of Congregations (2020)
+
+
+
+652) RBCCNG_2020
+RBCCNG_2020 Reformed Bible Church -- Total number of Congregations (2020)
+
+
+
+653) RCACNG_2020
+RCACNG_2020 Reformed Church in America -- Total number of Congregations (2020)
+
+
+
+654) RCAADH_2020
+RCAADH_2020 Reformed Church in America -- Total number of Adherents (2020)
+
+
+
+655) RCARATE_2020
+RCARATE_2020 Reformed Church in America -- Rates of Adherence per 1,000 population (2020)
+
+
+
+656) RCUSCNG_2020
+RCUSCNG_2020 Reformed Church in the United States -- Total number of Congregations (2020)
+
+
+
+657) RCUSADH_2020
+RCUSADH_2020 Reformed Church in the United States -- Total number of Adherents (2020)
+
+
+
+658) RCUSRATE_2020
+RCUSRATE_2020 Reformed Church in the United States -- Rates of Adherence per 1,000 population (2020)
+
+
+
+659) RONACNG_2020
+RONACNG_2020 Reformed Congregations of North America -- Total number of Congregations (2020)
+
+
+
+660) RONAADH_2020
+RONAADH_2020 Reformed Congregations of North America -- Total number of Adherents (2020)
+
+
+
+661) RONARATE_2020
+RONARATE_2020 Reformed Congregations of North America -- Rates of Adherence per 1,000 population (2020)
+
+
+
+662) RECCNG_2020
+RECCNG_2020 Reformed Episcopal Church -- Total number of Congregations (2020)
+
+
+
+663) RMCCNG_2020
+RMCCNG_2020 Reformed Mennonite Church -- Total number of Congregations (2020)
+
+
+
+664) RMCADH_2020
+RMCADH_2020 Reformed Mennonite Church -- Total number of Adherents (2020)
+
+
+
+665) RMCRATE_2020
+RMCRATE_2020 Reformed Mennonite Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+666) RPCCNG_2020
+RPCCNG_2020 Reformed Presbyterian Church General Assembly -- Total number of Congregations (2020)
+
+
+
+667) RPNACNG_2020
+RPNACNG_2020 Reformed Presbyterian Church of North America -- Total number of Congregations (2020)
+
+
+
+668) RPNAADH_2020
+RPNAADH_2020 Reformed Presbyterian Church of North America -- Total number of Adherents (2020)
+
+
+
+669) RPNARATE_2020
+RPNARATE_2020 Reformed Presbyterian Church of North America -- Rates of Adherence per 1,000 population (2020)
+
+
+
+670) RPHPCNG_2020
+RPHPCNG_2020 Reformed Presbyterian Church, Hanover Presbytery -- Total number of Congregations (2020)
+
+
+
+671) RZUAPCNG_2020
+RZUAPCNG_2020 Reformed Zion Union Apostolic Church -- Total number of Congregations (2020)
+
+
+
+672) RZUAPADH_2020
+RZUAPADH_2020 Reformed Zion Union Apostolic Church -- Total number of Adherents (2020)
+
+
+
+673) RZUAPRATE_2020
+RZUAPRATE_2020 Reformed Zion Union Apostolic Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+674) REIDMCNG_2020
+REIDMCNG_2020 Reidenbach Mennonite -- Total number of Congregations (2020)
+
+
+
+675) REIDMADH_2020
+REIDMADH_2020 Reidenbach Mennonite -- Total number of Adherents (2020)
+
+
+
+676) REIDMRATE_2020
+REIDMRATE_2020 Reidenbach Mennonite -- Rates of Adherence per 1,000 population (2020)
+
+
+
+677) REMCMCNG_2020
+REMCMCNG_2020 Remnant: Charity Ministries and related -- Total number of Congregations (2020)
+
+
+
+678) RIVOOMCCNG_2020
+RIVOOMCCNG_2020 Riverdale Old Order (Virginia) Mennonite Conference -- Total number of Congregations (2020)
+
+
+
+679) RIVOOMCADH_2020
+RIVOOMCADH_2020 Riverdale Old Order (Virginia) Mennonite Conference -- Total number of Adherents (2020)
+
+
+
+680) RIVOOMCRATE_2020
+RIVOOMCRATE_2020 Riverdale Old Order (Virginia) Mennonite Conference -- Rates of Adherence per 1,000 population (2020)
+
+
+
+681) ROAACNG_2020
+ROAACNG_2020 Romanian Orthodox Archdiocese in Americas -- Total number of Congregations (2020)
+
+
+
+682) ROAAADH_2020
+ROAAADH_2020 Romanian Orthodox Archdiocese in Americas -- Total number of Adherents (2020)
+
+
+
+683) ROAARATE_2020
+ROAARATE_2020 Romanian Orthodox Archdiocese in Americas -- Rates of Adherence per 1,000 population (2020)
+
+
+
+684) ROORCNG_2020
+ROORCNG_2020 Russian Orthodox Church Outside of Russia -- Total number of Congregations (2020)
+
+
+
+685) ROORADH_2020
+ROORADH_2020 Russian Orthodox Church Outside of Russia -- Total number of Adherents (2020)
+
+
+
+686) ROORRATE_2020
+ROORRATE_2020 Russian Orthodox Church Outside of Russia -- Rates of Adherence per 1,000 population (2020)
+
+
+
+687) SALVCNG_2020
+SALVCNG_2020 Salvation Army -- Total number of Congregations (2020)
+
+
+
+688) SALVADH_2020
+SALVADH_2020 Salvation Army -- Total number of Adherents (2020)
+
+
+
+689) SALVRATE_2020
+SALVRATE_2020 Salvation Army -- Rates of Adherence per 1,000 population (2020)
+
+
+
+690) SAORBCNG_2020
+SAORBCNG_2020 Sardis Association of Old Regular Baptists -- Total number of Congregations (2020)
+
+
+
+691) SAORBADH_2020
+SAORBADH_2020 Sardis Association of Old Regular Baptists -- Total number of Adherents (2020)
+
+
+
+692) SAORBRATE_2020
+SAORBRATE_2020 Sardis Association of Old Regular Baptists -- Rates of Adherence per 1,000 population (2020)
+
+
+
+693) SCHG1CNG_2020
+SCHG1CNG_2020 Schmiedeleut Hutterite Group 1 -- Total number of Congregations (2020)
+
+
+
+694) SCHG1ADH_2020
+SCHG1ADH_2020 Schmiedeleut Hutterite Group 1 -- Total number of Adherents (2020)
+
+
+
+695) SCHG1RATE_2020
+SCHG1RATE_2020 Schmiedeleut Hutterite Group 1 -- Rates of Adherence per 1,000 population (2020)
+
+
+
+696) SCHG2CNG_2020
+SCHG2CNG_2020 Schmiedeleut Hutterite Group 2 -- Total number of Congregations (2020)
+
+
+
+697) SCHG2ADH_2020
+SCHG2ADH_2020 Schmiedeleut Hutterite Group 2 -- Total number of Adherents (2020)
+
+
+
+698) SCHG2RATE_2020
+SCHG2RATE_2020 Schmiedeleut Hutterite Group 2 -- Rates of Adherence per 1,000 population (2020)
+
+
+
+699) SCHWCNG_2020
+SCHWCNG_2020 Schwenkfelder Church -- Total number of Congregations (2020)
+
+
+
+700) SCHWADH_2020
+SCHWADH_2020 Schwenkfelder Church -- Total number of Adherents (2020)
+
+
+
+701) SCHWRATE_2020
+SCHWRATE_2020 Schwenkfelder Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+702) SERBCNG_2020
+SERBCNG_2020 Serbian Orthodox Church in North America -- Total number of Congregations (2020)
+
+
+
+703) SERBADH_2020
+SERBADH_2020 Serbian Orthodox Church in North America -- Total number of Adherents (2020)
+
+
+
+704) SERBRATE_2020
+SERBRATE_2020 Serbian Orthodox Church in North America -- Rates of Adherence per 1,000 population (2020)
+
+
+
+705) SDBCNG_2020
+SDBCNG_2020 Seventh Day Baptist General Conference, USA and Canada -- Total number of Congregations (2020)
+
+
+
+706) SDBADH_2020
+SDBADH_2020 Seventh Day Baptist General Conference, USA and Canada -- Total number of Adherents (2020)
+
+
+
+707) SDBRATE_2020
+SDBRATE_2020 Seventh Day Baptist General Conference, USA and Canada -- Rates of Adherence per 1,000 population (2020)
+
+
+
+708) SDACCNG_2020
+SDACCNG_2020 Seventh-day Adventist Church -- Total number of Congregations (2020)
+
+
+
+709) SDACADH_2020
+SDACADH_2020 Seventh-day Adventist Church -- Total number of Adherents (2020)
+
+
+
+710) SDACRATE_2020
+SDACRATE_2020 Seventh-day Adventist Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+711) SHNTCNG_2020
+SHNTCNG_2020 Shinto -- Total number of Congregations (2020)
+
+
+
+712) SRAOTBCNG_2020
+SRAOTBCNG_2020 Solid Rock Association of Old Time Baptists -- Total number of Congregations (2020)
+
+
+
+713) SRAOTBADH_2020
+SRAOTBADH_2020 Solid Rock Association of Old Time Baptists -- Total number of Adherents (2020)
+
+
+
+714) SRAOTBRATE_2020
+SRAOTBRATE_2020 Solid Rock Association of Old Time Baptists -- Rates of Adherence per 1,000 population (2020)
+
+
+
+715) SAMCCNG_2020
+SAMCCNG_2020 South Atlantic Mennonite Conference -- Total number of Congregations (2020)
+
+
+
+716) SAMCADH_2020
+SAMCADH_2020 South Atlantic Mennonite Conference -- Total number of Adherents (2020)
+
+
+
+717) SAMCRATE_2020
+SAMCRATE_2020 South Atlantic Mennonite Conference -- Rates of Adherence per 1,000 population (2020)
+
+
+
+718) STHMCCNG_2020
+STHMCCNG_2020 Southeastern Mennonite Conference -- Total number of Congregations (2020)
+
+
+
+719) STHMCADH_2020
+STHMCADH_2020 Southeastern Mennonite Conference -- Total number of Adherents (2020)
+
+
+
+720) STHMCRATE_2020
+STHMCRATE_2020 Southeastern Mennonite Conference -- Rates of Adherence per 1,000 population (2020)
+
+
+
+721) SBCCNG_2020
+SBCCNG_2020 Southern Baptist Convention -- Total number of Congregations (2020)
+
+
+
+722) SBCADH_2020
+SBCADH_2020 Southern Baptist Convention -- Total number of Adherents (2020)
+
+
+
+723) SBCRATE_2020
+SBCRATE_2020 Southern Baptist Convention -- Rates of Adherence per 1,000 population (2020)
+
+
+
+724) SICCCNG_2020
+SICCCNG_2020 Southern Illinois Christian Conference -- Total number of Congregations (2020)
+
+
+
+725) SMCCNG_2020
+SMCCNG_2020 Southern Methodist Church -- Total number of Congregations (2020)
+
+
+
+726) SVGCCNG_2020
+SVGCCNG_2020 Sovereign Grace Churches -- Total number of Congregations (2020)
+
+
+
+727) STMIGCNG_2020
+STMIGCNG_2020 Stauffer Mennonite (independent groups) -- Total number of Congregations (2020)
+
+
+
+728) STMIGADH_2020
+STMIGADH_2020 Stauffer Mennonite (independent groups) -- Total number of Adherents (2020)
+
+
+
+729) STMIGRATE_2020
+STMIGRATE_2020 Stauffer Mennonite (independent groups) -- Rates of Adherence per 1,000 population (2020)
+
+
+
+730) STMCCNG_2020
+STMCCNG_2020 Stauffer Mennonite Church -- Total number of Congregations (2020)
+
+
+
+731) STMCADH_2020
+STMCADH_2020 Stauffer Mennonite Church -- Total number of Adherents (2020)
+
+
+
+732) STMCRATE_2020
+STMCRATE_2020 Stauffer Mennonite Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+733) SWEDCNG_2020
+SWEDCNG_2020 Swedenborgian Church -- Total number of Congregations (2020)
+
+
+
+734) SWEDADH_2020
+SWEDADH_2020 Swedenborgian Church -- Total number of Adherents (2020)
+
+
+
+735) SWEDRATE_2020
+SWEDRATE_2020 Swedenborgian Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+736) SOCACNG_2020
+SOCACNG_2020 Syriac Orthodox Church of Antioch -- Total number of Congregations (2020)
+
+
+
+737) SOCAADH_2020
+SOCAADH_2020 Syriac Orthodox Church of Antioch -- Total number of Adherents (2020)
+
+
+
+738) SOCARATE_2020
+SOCARATE_2020 Syriac Orthodox Church of Antioch -- Rates of Adherence per 1,000 population (2020)
+
+
+
+739) SROCCCNG_2020
+SROCCCNG_2020 Syro-Russian Orthodox Catholic Church -- Total number of Congregations (2020)
+
+
+
+740) TAMCNG_2020
+TAMCNG_2020 Tampico Amish Mennonite -- Total number of Congregations (2020)
+
+
+
+741) TAMADH_2020
+TAMADH_2020 Tampico Amish Mennonite -- Total number of Adherents (2020)
+
+
+
+742) TAMRATE_2020
+TAMRATE_2020 Tampico Amish Mennonite -- Rates of Adherence per 1,000 population (2020)
+
+
+
+743) TAOCNG_2020
+TAOCNG_2020 Tao -- Total number of Congregations (2020)
+
+
+
+744) LOCCHCNG_2020
+LOCCHCNG_2020 The Local Churches -- Total number of Congregations (2020)
+
+
+
+745) THBUDCNG_2020
+THBUDCNG_2020 Theravada Buddhist -- Total number of Congregations (2020)
+
+
+
+746) THBUDADH_2020
+THBUDADH_2020 Theravada Buddhist -- Total number of Adherents (2020)
+
+
+
+747) THBUDRATE_2020
+THBUDRATE_2020 Theravada Buddhist -- Rates of Adherence per 1,000 population (2020)
+
+
+
+748) TWTRIBCNG_2020
+TWTRIBCNG_2020 Twelve Tribes -- Total number of Congregations (2020)
+
+
+
+749) UOCCNG_2020
+UOCCNG_2020 Ukrainian Orthodox Church of the USA -- Total number of Congregations (2020)
+
+
+
+750) UOCADH_2020
+UOCADH_2020 Ukrainian Orthodox Church of the USA -- Total number of Adherents (2020)
+
+
+
+751) UOCRATE_2020
+UOCRATE_2020 Ukrainian Orthodox Church of the USA -- Rates of Adherence per 1,000 population (2020)
+
+
+
+752) UCAMCNG_2020
+UCAMCNG_2020 Unaffiliated Conservative Amish Mennonite Church -- Total number of Congregations (2020)
+
+
+
+753) UCAMADH_2020
+UCAMADH_2020 Unaffiliated Conservative Amish Mennonite Church -- Total number of Adherents (2020)
+
+
+
+754) UCAMRATE_2020
+UCAMRATE_2020 Unaffiliated Conservative Amish Mennonite Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+755) UAMMENCNG_2020
+UAMMENCNG_2020 Unaffiliated Amish-Mennonite (Spring Garden network) -- Total number of Congregations (2020)
+
+
+
+756) UAMMENADH_2020
+UAMMENADH_2020 Unaffiliated Amish-Mennonite (Spring Garden network) -- Total number of Adherents (2020)
+
+
+
+757) UAMMENRATE_2020
+UAMMENRATE_2020 Unaffiliated Amish-Mennonite (Spring Garden network) -- Rates of Adherence per 1,000 population (2020)
+
+
+
+758) UCMNCNG_2020
+UCMNCNG_2020 Unaffiliated Conservative Mennonite -- Total number of Congregations (2020)
+
+
+
+759) UCMNADH_2020
+UCMNADH_2020 Unaffiliated Conservative Mennonite -- Total number of Adherents (2020)
+
+
+
+760) UCMNRATE_2020
+UCMNRATE_2020 Unaffiliated Conservative Mennonite -- Rates of Adherence per 1,000 population (2020)
+
+
+
+761) UCMNGCNG_2020
+UCMNGCNG_2020 Unaffiliated Conservative Mennonite (Grandview fellowship) -- Total number of Congregations (2020)
+
+
+
+762) UCMNGADH_2020
+UCMNGADH_2020 Unaffiliated Conservative Mennonite (Grandview fellowship) -- Total number of Adherents (2020)
+
+
+
+763) UCMNGRATE_2020
+UCMNGRATE_2020 Unaffiliated Conservative Mennonite (Grandview fellowship) -- Rates of Adherence per 1,000 population (2020)
+
+
+
+764) UFMCNG_2020
+UFMCNG_2020 Unaffiliated Friends Meetings -- Total number of Congregations (2020)
+
+
+
+765) UFMADH_2020
+UFMADH_2020 Unaffiliated Friends Meetings -- Total number of Adherents (2020)
+
+
+
+766) UFMRATE_2020
+UFMRATE_2020 Unaffiliated Friends Meetings -- Rates of Adherence per 1,000 population (2020)
+
+
+
+767) UMWCFCNG_2020
+UMWCFCNG_2020 Unaffiliated Mennonite (Wisler Christian Fellowship) -- Total number of Congregations (2020)
+
+
+
+768) UMWCFADH_2020
+UMWCFADH_2020 Unaffiliated Mennonite (Wisler Christian Fellowship) -- Total number of Adherents (2020)
+
+
+
+769) UMWCFRATE_2020
+UMWCFRATE_2020 Unaffiliated Mennonite (Wisler Christian Fellowship) -- Rates of Adherence per 1,000 population (2020)
+
+
+
+770) UNCHCNG_2020
+UNCHCNG_2020 Unification Church -- Total number of Congregations (2020)
+
+
+
+771) UAMECCNG_2020
+UAMECCNG_2020 Union American Methodist Episcopal Church -- Total number of Congregations (2020)
+
+
+
+772) UMJCCNG_2020
+UMJCCNG_2020 Union of Messianic Jewish Congregations -- Total number of Congregations (2020)
+
+
+
+773) UUACNG_2020
+UUACNG_2020 Unitarian Universalist Association of Congregations -- Total number of Congregations (2020)
+
+
+
+774) UUAADH_2020
+UUAADH_2020 Unitarian Universalist Association of Congregations -- Total number of Adherents (2020)
+
+
+
+775) UUARATE_2020
+UUARATE_2020 Unitarian Universalist Association of Congregations -- Rates of Adherence per 1,000 population (2020)
+
+
+
+776) UAFWBDCNG_2020
+UAFWBDCNG_2020 United American Free Will Baptist Denomination, Inc. -- Total number of Congregations (2020)
+
+
+
+777) UCTHCNG_2020
+UCTHCNG_2020 United Catholic Church, Inc. -- Total number of Congregations (2020)
+
+
+
+778) UCTHADH_2020
+UCTHADH_2020 United Catholic Church, Inc. -- Total number of Adherents (2020)
+
+
+
+779) UCTHRATE_2020
+UCTHRATE_2020 United Catholic Church, Inc. -- Rates of Adherence per 1,000 population (2020)
+
+
+
+780) UCCCNG_2020
+UCCCNG_2020 United Church of Christ -- Total number of Congregations (2020)
+
+
+
+781) UCCADH_2020
+UCCADH_2020 United Church of Christ -- Total number of Adherents (2020)
+
+
+
+782) UCCRATE_2020
+UCCRATE_2020 United Church of Christ -- Rates of Adherence per 1,000 population (2020)
+
+
+
+783) UCGCNG_2020
+UCGCNG_2020 United Church of God -- Total number of Congregations (2020)
+
+
+
+784) UECNACNG_2020
+UECNACNG_2020 United Episcopal Church of North America -- Total number of Congregations (2020)
+
+
+
+785) UHCACNG_2020
+UHCACNG_2020 United Holy Church of America, Inc. -- Total number of Congregations (2020)
+
+
+
+786) UHCAADH_2020
+UHCAADH_2020 United Holy Church of America, Inc. -- Total number of Adherents (2020)
+
+
+
+787) UHCARATE_2020
+UHCARATE_2020 United Holy Church of America, Inc. -- Rates of Adherence per 1,000 population (2020)
+
+
+
+788) UHPRCNG_2020
+UHPRCNG_2020 United House of Prayer -- Total number of Congregations (2020)
+
+
+
+789) UHPRADH_2020
+UHPRADH_2020 United House of Prayer -- Total number of Adherents (2020)
+
+
+
+790) UHPRRATE_2020
+UHPRRATE_2020 United House of Prayer -- Rates of Adherence per 1,000 population (2020)
+
+
+
+791) UMCCNG_2020
+UMCCNG_2020 United Methodist Church, The -- Total number of Congregations (2020)
+
+
+
+792) UMCADH_2020
+UMCADH_2020 United Methodist Church, The -- Total number of Adherents (2020)
+
+
+
+793) UMCRATE_2020
+UMCRATE_2020 United Methodist Church, The -- Rates of Adherence per 1,000 population (2020)
+
+
+
+794) UPCICNG_2020
+UPCICNG_2020 United Pentecostal Church International -- Total number of Congregations (2020)
+
+
+
+795) URCCNG_2020
+URCCNG_2020 United Reformed Churches in North America -- Total number of Congregations (2020)
+
+
+
+796) URCADH_2020
+URCADH_2020 United Reformed Churches in North America -- Total number of Adherents (2020)
+
+
+
+797) URCRATE_2020
+URCRATE_2020 United Reformed Churches in North America -- Rates of Adherence per 1,000 population (2020)
+
+
+
+798) UZCCNG_2020
+UZCCNG_2020 United Zion Church -- Total number of Congregations (2020)
+
+
+
+799) UZCADH_2020
+UZCADH_2020 United Zion Church -- Total number of Adherents (2020)
+
+
+
+800) UZCRATE_2020
+UZCRATE_2020 United Zion Church -- Rates of Adherence per 1,000 population (2020)
+
+
+
+801) UNTYCNG_2020
+UNTYCNG_2020 Unity Churches, Association of -- Total number of Congregations (2020)
+
+
+
+802) UNBRCNG_2020
+UNBRCNG_2020 Unity of the Brethren -- Total number of Congregations (2020)
+
+
+
+803) USMBCNG_2020
+USMBCNG_2020 U.S. Mennonite Brethren -- Total number of Congregations (2020)
+
+
+
+804) USMBADH_2020
+USMBADH_2020 U.S. Mennonite Brethren -- Total number of Adherents (2020)
+
+
+
+805) USMBRATE_2020
+USMBRATE_2020 U.S. Mennonite Brethren -- Rates of Adherence per 1,000 population (2020)
+
+
+
+806) VAJBUDCNG_2020
+VAJBUDCNG_2020 Vajarayana Buddhist -- Total number of Congregations (2020)
+
+
+
+807) VAJBUDADH_2020
+VAJBUDADH_2020 Vajarayana Buddhist -- Total number of Adherents (2020)
+
+
+
+808) VAJBUDRATE_2020
+VAJBUDRATE_2020 Vajarayana Buddhist -- Rates of Adherence per 1,000 population (2020)
+
+
+
+809) VANPRCNG_2020
+VANPRCNG_2020 Vanguard Presbytery -- Total number of Congregations (2020)
+
+
+
+810) VEDSOCCNG_2020
+VEDSOCCNG_2020 Vedanta Society -- Total number of Congregations (2020)
+
+
+
+811) VCNCNG_2020
+VCNCNG_2020 Venture Church Network -- Total number of Congregations (2020)
+
+
+
+812) VINECNG_2020
+VINECNG_2020 Vineyard USA -- Total number of Congregations (2020)
+
+
+
+813) VINEADH_2020
+VINEADH_2020 Vineyard USA -- Total number of Adherents (2020)
+
+
+
+814) VINERATE_2020
+VINERATE_2020 Vineyard USA -- Rates of Adherence per 1,000 population (2020)
+
+
+
+815) WFMCCNG_2020
+WFMCCNG_2020 Washington-Franklin Mennonite Conference -- Total number of Congregations (2020)
+
+
+
+816) WFMCADH_2020
+WFMCADH_2020 Washington-Franklin Mennonite Conference -- Total number of Adherents (2020)
+
+
+
+817) WFMCRATE_2020
+WFMCRATE_2020 Washington-Franklin Mennonite Conference -- Rates of Adherence per 1,000 population (2020)
+
+
+
+818) WMCCNG_2020
+WMCCNG_2020 Weaverland Mennonite Conference -- Total number of Congregations (2020)
+
+
+
+819) WMCADH_2020
+WMCADH_2020 Weaverland Mennonite Conference -- Total number of Adherents (2020)
+
+
+
+820) WMCRATE_2020
+WMCRATE_2020 Weaverland Mennonite Conference -- Rates of Adherence per 1,000 population (2020)
+
+
+
+821) WESCNG_2020
+WESCNG_2020 Wesleyan Church, The -- Total number of Congregations (2020)
+
+
+
+822) WESADH_2020
+WESADH_2020 Wesleyan Church, The -- Total number of Adherents (2020)
+
+
+
+823) WESRATE_2020
+WESRATE_2020 Wesleyan Church, The -- Rates of Adherence per 1,000 population (2020)
+
+
+
+824) WCMFCNG_2020
+WCMFCNG_2020 Western Conservative Mennonite Fellowship -- Total number of Congregations (2020)
+
+
+
+825) WCMFADH_2020
+WCMFADH_2020 Western Conservative Mennonite Fellowship -- Total number of Adherents (2020)
+
+
+
+826) WCMFRATE_2020
+WCMFRATE_2020 Western Conservative Mennonite Fellowship -- Rates of Adherence per 1,000 population (2020)
+
+
+
+827) WEPCCNG_2020
+WEPCCNG_2020 Westminster Evangelical Presbyterian Church -- Total number of Congregations (2020)
+
+
+
+828) WELSCNG_2020
+WELSCNG_2020 Wisconsin Evangelical Lutheran Synod -- Total number of Congregations (2020)
+
+
+
+829) WELSADH_2020
+WELSADH_2020 Wisconsin Evangelical Lutheran Synod -- Total number of Adherents (2020)
+
+
+
+830) WELSRATE_2020
+WELSRATE_2020 Wisconsin Evangelical Lutheran Synod -- Rates of Adherence per 1,000 population (2020)
+
+
+
+831) WMCOCNG_2020
+WMCOCNG_2020 Wisler Mennonite Conference (Ohio) -- Total number of Congregations (2020)
+
+
+
+832) WMCOADH_2020
+WMCOADH_2020 Wisler Mennonite Conference (Ohio) -- Total number of Adherents (2020)
+
+
+
+833) WMCORATE_2020
+WMCORATE_2020 Wisler Mennonite Conference (Ohio) -- Rates of Adherence per 1,000 population (2020)
+
+
+
+834) WMCOICNG_2020
+WMCOICNG_2020 Wisler Mennonite Conference (Ohio-Indiana) -- Total number of Congregations (2020)
+
+
+
+835) WMCOIADH_2020
+WMCOIADH_2020 Wisler Mennonite Conference (Ohio-Indiana) -- Total number of Adherents (2020)
+
+
+
+836) WMCOIRATE_2020
+WMCOIRATE_2020 Wisler Mennonite Conference (Ohio-Indiana) -- Rates of Adherence per 1,000 population (2020)
+
+
+
+837) SIKHCNG_2020
+SIKHCNG_2020 World Sikh Council America Region (WSC-AR) -- Total number of Congregations (2020)
+
+
+
+838) ZOROCNG_2020
+ZOROCNG_2020 Zoroastrian -- Total number of Congregations (2020)
+
+
+
