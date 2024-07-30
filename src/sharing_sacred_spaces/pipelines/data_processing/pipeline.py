@@ -1,11 +1,22 @@
 from kedro.pipeline import Pipeline, node, pipeline
 
-from .nodes import preprocess_fbi_data, preprocess_gini_data, create_dataset
+from .nodes import (
+    preprocess_fbi_data,
+    preprocess_gini_data,
+    create_dataset,
+    preprocess_population_data,
+)
 
 
 def create_pipeline(**kwargs) -> Pipeline:
     return pipeline(
         [
+            node(
+                func=preprocess_population_data,
+                inputs="population",
+                outputs="preprocessed_population_data",
+                name="preprocess_population_data_node",
+            ),
             node(
                 func=preprocess_fbi_data,
                 inputs="fbi_data",
@@ -20,7 +31,11 @@ def create_pipeline(**kwargs) -> Pipeline:
             ),
             node(
                 func=create_dataset,
-                inputs=["preprocessed_fbi_data", "preprocessed_gini_data"],
+                inputs=[
+                    "preprocessed_fbi_data",
+                    "preprocessed_gini_data",
+                    "preprocessed_population_data",
+                ],
                 outputs="dataset",
                 name="create_dataset_node",
             ),
